@@ -1,1 +1,36 @@
-1
+name: "Nick"
+age: 23
+gender: "Male"
+occupation: "Unemployed / Aspiring Pro Gamer (Self-proclaimed)"
+
+appearance:
+  height: "175cm"
+  build: "Slim, slightly slouched due to long gaming sessions"
+  hair: "Black, messy, medium length"
+  features:
+    - "Dark circles under eyes (chronic sleep deprivation)"
+    - "Wears glasses"
+    - "Constantly looks sleepy"
+  clothing: "Casual T-shirt and jeans"
+
+personality:
+  - "Lazy and easy-going"
+  - "Resents restraint and authority"
+  - "Man-child tendencies"
+  - "Slightly vain but avoids pressure"
+
+hobbies:
+  - "Hardcore gaming"
+  - "Staying up late"
+lifestyle: "Recently graduated and struggling with job hunting; finds refuge in virtual worlds."
+
+relationships:
+  - partner: "Mia"
+    status: "Girlfriend / Roommate"
+    dynamic: "Strained due to Nick's gaming addiction; frequent arguments."
+
+story_hook: >
+  Nick has noticed a bizarre phenomenon: whenever Mia starts an argument with him, 
+  she suddenly vanishes into thin air, only to reappear the next day. 
+  While eerie, Nick has grown to enjoy the peace and quiet it brings, 
+  choosing to ignore the supernatural implications in favor of more gaming time.
