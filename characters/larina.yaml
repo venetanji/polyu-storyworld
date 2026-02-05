@@ -1,0 +1,55 @@
+name: Larina
+age: 28
+personality: calm, cautious, observant
+appearance: short black hair, wears glasses, plain clothing, agile movements, sharp eyes
+backstory: >
+  In 2045, in the expanded district of PolyU City, Larina works as a perception system calibration technician, responsible for maintaining the stability of the city's AR information layer.
+  Naturally perceptive, she notices subtle distortions that others easily overlook.
+  During a routine inspection, she discovers AR fragments that shouldn't exist—images seemingly from the past or the future.
+  Her supervisor insists it's just noise in the system, but Larina senses a deeper causal anomaly behind it.
+  She secretly continues her investigation and begins to suspect that reality itself may be undergoing revision.
+scenes:
+  - scene_id: s01
+    title: Echo of Anomaly
+    ltx_prompt: |
+      Setting: Dusk in 2045, on the skywalk outside PolyU Building A, cold-toned lights flickering, filled with an ominous and quietly tense atmosphere.
+      Visible Action: While running a routine AR stability check, a future projection suddenly flashes—future Larina appears, wildly waving to warn her; present Larina is startled but remains controlled, attempting to assess the source.
+      Character On-screen: Larina (short black hair, glasses, plain clothing, agile movements, sharp eyes), standing steady with slight tension in her posture.
+      Camera: Medium shot pushing forward → POV shot with flickering AR artifacts overlay.
+      Audio: Data distortion crackles, faint crowd echoes from the future, and a low ambient hum in the real environment.
+
+  - scene_id: s02
+    title: The Tracking Line
+    ltx_prompt: |
+      Setting: Early morning in 2045, an underground walkway leading to the metro station, dimly lit and echoing.
+      Visible Action: A red line—pulsing like an ECG waveform—appears in the AR layer, pointing toward a pitch‑dark side corridor; Larina becomes alert, sweeping her surroundings to spot any real follower.
+      Character On-screen: Larina (short black hair, glasses, plain clothing, agile movements, sharp eyes), moving cautiously with a forward‑leaning posture.
+      Camera: Side-following shot → sudden static close-up.
+      Audio: Hollow corridor echoes, electric distortion, and AR pulse noise.
+
+  - scene_id: s03
+    title: Reconstructing the Fragment
+    ltx_prompt: |
+      Setting: Night in 2045, the underground machine room of PolyU Building E, illuminated by cold blue lights and filled with server fan noise.
+      Visible Action: Larina manually rebuilds corrupted anomaly data; the recovered image shows a shadow‑like humanoid silhouette with no physical detail and an overlapping double‑timestamp warning symbol; the system suddenly locks her access, and the terminal briefly blacks out.
+      Character On-screen: Larina focused intensely, sharp-eyed, hands moving rapidly across the interface.
+      Camera: HUD operation close-up → her face reflected on the blacked-out screen.
+      Audio: Loading sequence hum, server noise, and a muffled pulse when permissions lock.
+
+  - scene_id: s04
+    title: Time Ripple on the Skybridge
+    ltx_prompt: |
+      Setting: 2045 night, a skybridge at the edge of campus; the real city and its future counterpart overlap visibly, and the sky exhibits violet-blue temporal fractures; bridge lights flicker in unison.
+      Visible Action: Larina stops to observe the dual-layered city; the future city floats semi-transparently above the real one; the boundary between present and future appears to be collapsing.
+      Character On-screen: Larina frozen in place, gripping the railing tightly, eyes locked on the expanding fracture.
+      Camera: Long shot of the skybridge → POV shot as the temporal crack widens.
+      Audio: Night wind mixed with rhythmic temporal distortion pulses.
+
+  - scene_id: s05
+    title: Active Pursuit
+    ltx_prompt: |
+      Setting: Late night on the service road outside PolyU's perimeter fence; faint blue-white light patterns shimmer in the air.
+      Visible Action: A thin, laser-like slit appears—like air sliced open—revealing twisting blue-white light inside; a jagged, pulsing white tracking line rises from the ground, searching for her; Larina disables all safety protocols and begins a high-risk scan directly into the fissure.
+      Character On-screen: Larina calm but resolute, movements precise, gaze fixed on the anomaly.
+      Camera: Distant back-view shot → low-angle close-up approaching the fissure.
+      Audio: Cracking fracture sounds, sharp scanning pulses, and the faint rush of night wind.
