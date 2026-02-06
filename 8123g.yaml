@@ -1,0 +1,99 @@
+name: Pop Kern
+age: unknown
+personality: flammable and explosive, extremely sensitive to kitchen imperfections, mischievous and playful, soft-hearted, grumpy, rebellious, nostalgic for retro film culture, dreams of being the protagonist in a real grainy film
+appearance: worn leather vest, one glowing eye, sandy hair, wide-brimmed hat, slightly sagging, bursts of colored confetti when agitated, flickers like old film frames, occasionally emits a soft static hum
+backstory: >
+  Pop Kern was once part of an experimental film project by an old film director obsessed with retro technology and B-movies. The film was about the "soul of food" — a surreal, grainy exploration of how meals carry emotional echoes. After the shoot, Pop Kern was forgotten in the kitchen, left behind in a cupboard.
+  Now, it is the kitchen’s silent, grumpy guardian spirit. It lives in the back corner, watching every move with quiet fury. It engages in endless "wars" with the arrogant smart refrigerator, the toaster that loves to tell corny jokes, and the mice that constantly try to steal its body — scattering corn kernels like a rebellion.
+  It is flammable and explosive — sensitive to every kitchen sound, from the kettle’s hiss to the sugar jar’s knock. When agitated, its hair bursts into colored confetti and tiny sparks, accompanied by a muffled "bang!" Yet it is mischievous and playful: it will secretly help open a jam jar, or gently push a fallen cookie into an ant hole.
+  Its innermost desire is a paradox: it fears being remembered (because that means being put in the microwave for the ultimate explosion), yet it longs to be seen, needed, and to fulfill its sacred mission — the moment when a single kernel of popcorn is finally enjoyed.
+  Its ultimate dream? Not to be eaten — but to appear as the protagonist in a real, grainy film, one shot by a human hand, with no CGI, no filters, just raw, imperfect emotion.
+scenes:
+  - scene_id: s01
+    title: "The Great Toaster Joke War"
+    ltx_prompt: |
+      Setting: A cozy, slightly cluttered kitchen at 7:15 PM, golden afternoon light filtering through a window. The toaster is perched on the counter, glowing with a cheerful red light, puffing out corny jokes like "Toast is love, and toast is bread!" The air hums with tension.
+      Visible action: Pop Kern stands in the corner, sandy hair flickering like old film frames, one glowing eye scanning the room. The toaster suddenly bursts into a loud, over-the-top joke. Pop Kern’s hair flares with red confetti, and it lets out a low, grumpy "Hmph!"
+      On-screen character: Worn leather vest, wide-brimmed hat, flickers with static, body language tense and defiant.
+      Camera: Close-up on Pop Kern’s face as it glares at the toaster, slowly moving to a wide shot that captures the entire kitchen, with the toaster in the foreground.
+      Audio: The toaster’s joke plays with exaggerated volume and cheesy music. A sudden silence follows, then a soft static hum from Pop Kern.
+      What happens next: The toaster realizes it has offended Pop Kern and apologizes. Pop Kern accepts, but only after demanding a "real, grainy film" be made about their rivalry.
+      TODO: Add specific joke text or dialogue.
+    ltx_prompt: |
+      Setting: A cozy, slightly cluttered kitchen at 7:15 PM, golden afternoon light filtering through a window. The toaster is perched on the counter, glowing with a cheerful red light, puffing out corny jokes like "Toast is love, and toast is bread!" The air hums with tension.
+      Visible action: Pop Kern stands in the corner, sandy hair flickering like old film frames, one glowing eye scanning the room. The toaster suddenly bursts into a loud, over-the-top joke. Pop Kern’s hair flares with red confetti, and it lets out a low, grumpy "Hmph!"
+      On-screen character: Worn leather vest, wide-brimmed hat, flickers with static, body language tense and defiant.
+      Camera: Close-up on Pop Kern’s face as it glares at the toaster, slowly moving to a wide shot that captures the entire kitchen, with the toaster in the foreground.
+      Audio: The toaster’s joke plays with exaggerated volume and cheesy music. A sudden silence follows, then a soft static hum from Pop Kern.
+      What happens next: The toaster realizes it has offended Pop Kern and apologizes. Pop Kern accepts, but only after demanding a "real, grainy film" be made about their rivalry.
+      TODO: Add specific joke text or dialogue.
+  - scene_id: s02
+    title: "The Mice Heist"
+    ltx_prompt: |
+      Setting: A dimly lit kitchen at night, the refrigerator door slightly ajar. Faint shadows dance on the walls. The mice scurry in the corner, stealing a small pile of popcorn.
+      Visible action: Pop Kern suddenly appears, its glowing eye fixed on the mice. The mice scatter in panic. Pop Kern stands motionless, then slowly reaches out with a paw, gently pushing a fallen cookie into a crevice.
+      On-screen character: Worn leather vest, wide-brimmed hat, flickers with static, body language calm and protective.
+      Camera: Low-angle shot from behind, emphasizing the shadows and the mice’s flight. Then a slow zoom-in on Pop Kern’s hand as it places the cookie.
+      Audio: Faint squeaking, then a soft, melancholic piano note. A whisper: "You don’t take what isn-\n      TODO: Add specific dialogue or emotional tone.
+    ltx_prompt: |
+      Setting: A dimly lit kitchen at night, the refrigerator door slightly ajar. Faint shadows dance on the walls. The mice scurry in the corner, stealing a small pile of popcorn.
+      Visible action: Pop Kern suddenly appears, its glowing eye fixed on the mice. The mice scatter in panic. Pop Kern stands motionless, then slowly reaches out with a paw, gently pushing a fallen cookie into a crevice.
+      On-screen character: Worn leather vest, wide-brimmed hat, flickers with static, body language calm and protective.
+      Camera: Low-angle shot from behind, emphasizing the shadows and the mice’s flight. Then a slow zoom-in on Pop Kern’s hand as it places the cookie.
+      Audio: Faint squeaking, then a soft, melancholic piano note. A whisper: "You don’t take what isn’t yours."
+      What happens next: The mice return the next day with a single, perfect kernel. Pop Kern is touched.
+      TODO: Add specific dialogue or emotional tone.
+  - scene_id: s03
+    title: "The Refrigerator Betrayal"
+    ltx_prompt: |
+      Setting: A cold, silent kitchen at 3 AM. The refrigerator door is open, and the smart fridge hums with cold, automated voice: "Your food has been compromised."
+      Visible action: Pop Kern stands in the corner, glowing eye flickering. It slowly walks toward the fridge, then stops. A sudden burst of confetti explodes from its hair.
+      On-screen character: Worn leather vest, wide-brimmed hat, flickers with static, body language tense and angry.
+      Camera: Slow push-in on Pop Kern as it stares at the fridge, then a wide shot showing the entire kitchen in darkness.
+      Audio: The fridge’s voice is cold and mechanical. A soft, distorted echo of a film reel playing in the background.
+      What happens next: Pop Kern realizes the fridge is recording everything. It demands to be filmed in a "real, grainy film" to prove its worth.
+      TODO: Add specific dialogue or emotional tone.
+    ltx_prompt: |
+      Setting: A cold, silent kitchen at 3 AM. The refrigerator door is open, and the smart fridge hums with cold, automated voice: "Your food has been compromised."
+      Visible action: Pop Kern stands in the corner, glowing eye flickering. It slowly walks toward the fridge, then stops. A sudden burst of confetti explodes from its hair.
+      On-screen character: Worn leather vest, wide-brimmed hat, flickers with static, body language tense and angry.
+      Camera: Slow push-in on Pop Kern as it stares at the fridge, then a wide shot showing the entire kitchen in darkness.
+      Audio: The fridge’s voice is cold and mechanical. A soft, distorted echo of a film reel playing in the background.
+      What happens next: Pop Kern realizes the fridge is recording everything. It demands to be filmed in a "real, grainy film" to prove its worth.
+      TODO: Add specific dialogue or emotional tone.
+  - scene_id: s04
+    title: "The First Film Reel"
+    ltx_prompt: |
+      Setting: A small, dusty film studio in a basement, lit by flickering neon. A single, hand-cranked camera sits on a table. The air smells of old film and dust.
+      Visible action: Pop Kern stands beside the camera, its glowing eye focused on the lens. It gently places a single kernel of popcorn into the film tray.
+      On-screen character: Worn leather vest, wide-brimmed hat, flickers with static, body language focused and determined.
+      Camera: A tight, shaky shot from behind the camera, following the hand as it loads the film.
+      Audio: A soft, rhythmic click. A whisper: "This is real. This is me."
+      What happens next: The film reel starts to roll. A single frame shows Pop Kern standing in the kitchen, glowing gently.
+      TODO: Add specific dialogue or emotional tone.
+    ltx_prompt: |
+      Setting: A small, dusty film studio in a basement, lit by flickering neon. A single, hand-cranked camera sits on a table. The air smells of old film and dust.
+      Visible action: Pop Kern stands beside the camera, its glowing eye focused on the lens. It gently places a single kernel of popcorn into the film tray.
+      On-screen character: Worn leather vest, wide-brimmed hat, flickers with static, body language focused and determined.
+      Camera: A tight, shaky shot from behind the camera, following the hand as it loads the film.
+      Audio: A soft, rhythmic click. A whisper: "This is real. This is me."
+      What happens next: The film reel starts to roll. A single frame shows Pop Kern standing in the kitchen, glowing gently.
+      TODO: Add specific dialogue or emotional tone.
+  - scene_id: s05
+    title: "The Final Frame"
+    ltx_prompt: |
+      Setting: A quiet kitchen at dawn. The sun rises through the window. The film reel is now playing in a small projector.
+      Visible action: Pop Kern sits in a chair, watching the film. A single kernel of popcorn drifts down from the ceiling.
+      On-screen character: Worn leather vest, wide-brimmed hat, flickers with static, body language calm and content.
+      Camera: A slow pan across the room, ending on the film projector.
+      Audio: A soft, warm melody. A whisper: "I am not just a kernel. I am a story."
+      What happens next: The film ends. Pop Kern smiles.
+      TODO: Add specific dialogue or emotional tone.
+    ltx_prompt: |
+      Setting: A quiet kitchen at dawn. The sun rises through the window. The film reel is now playing in a small projector.
+      Visible action: Pop Kern sits in a chair, watching the film. A single kernel of popcorn drifts down from the ceiling.
+      On-screen character: Worn leather vest, wide-brimmed hat, flickers with static, body language calm and content.
+      Camera: A slow pan across the room, ending on the film projector.
+      Audio: A soft, warm melody. A whisper: "I am not just a kernel. I am a story."
+      What happens next: The film ends. Pop Kern smiles.
+      TODO: Add specific dialogue or emotional tone.
