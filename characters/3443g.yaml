@@ -1,0 +1,80 @@
+name: Maximus
+age: unknown
+personality: arrogant, lazy, adorable, hypocritical
+appearance: large, obese, orange short fur, triple chin, round face, squinting eyes, languid posture, liquid-like sprawl, crooked mini crown, red velvet cape
+backstory: >
+  Maximus was once an ordinary stray orange cat from the city, until he graciously allowed a human household to take him in.
+  In his own understanding, this was not adoption, but a royal inspection and annexation of new territory.
+  From the moment he entered the home, the sofa was elevated to a throne, and the sunniest windowsill was designated as the royal bedchamber.
+  The human was appointed Chancellor, tasked with timely tribute of canned food and the careful interpretation of royal will, with any hesitation deemed dereliction of duty.
+  The robotic vacuum cleaner was recognized as an ancient and slow royal steed, though Maximus has never actually ridden it.
+  Maximus never concerns himself with governance, for a true ruler needs only to exist—existence itself is order.
+  He sleeps for nearly twenty hours a day, a sacred ritual necessary to maintain the balance of the world.
+  When he opens his eyes and squints at others, it is known as the “King’s Contempt,” powerful enough to force any human into immediate self-reflection.
+  The occasional “Paw Punishment,” though seemingly weak, is the most direct form of royal favor.
+  In this small domestic kingdom, Maximus believes he will reign forever—until the next can is opened.
+scenes:
+  - scene_id: s01
+    title: The Kingdom in Motion
+    ltx_prompt: |
+      Setting: Daytime, various corners of a household, quiet, orderly, and subtly solemn.
+      Action: A robot vacuum patrols slowly, sunlight drifts across the floor, curtains sway gently. The camera finally cuts to the living room: Maximus sits upright on a single armchair, massive and imposing, perfectly still like a statue. His chest rises almost imperceptibly, and the tip of his tail gives a barely noticeable flick.
+      Character: Maximus is large and obese, orange short fur, triple chin, round face with squinting eyes, seated in a dignified yet languid posture.
+      Camera: Slow environmental cuts, ending with a low-angle shot fixing on the throne-like chair.
+      Audio: Low-frequency ambient sound, the hum of the robot vacuum like a background chant.
+  - scene_id: s02
+    title: Diligence Is for Others
+    ltx_prompt: |
+      Setting: Daytime, near the litter box with a clear view of the living room armchair.
+      Action: The human squats by the litter box, quietly and carefully scooping. Cut to Maximus on the armchair, eyes closed, resting. The human pauses briefly and straightens up to rest. Cut back to Maximus: he slowly opens his eyes and gives a brief squint. The human immediately squats again and resumes scooping, more carefully. Maximus closes his eyes once more.
+      Character: Maximus sits heavily and upright, his brief squint radiating silent authority.
+      Camera: Medium close-up of labor → low-angle throne shot → human pause → squint close-up → return to labor.
+      Audio: The sound of litter scooping stops briefly, then resumes in a steadier rhythm.
+  - scene_id: s03
+    title: Crossing the Line
+    ltx_prompt: |
+      Setting: Afternoon, living room armchair, soft light.
+      Action: Maximus sleeps belly-up, body fully sprawled, abdomen exposed, breathing slow and steady. The human hesitates, then gently reaches out to touch the soft belly. Just as the fingers linger, Maximus suddenly opens his eyes and kicks out with a hind leg. The human recoils instantly. Maximus closes his eyes again, as if nothing happened.
+      Character: Maximus appears relaxed but remains instinctively alert.
+      Camera: Medium shot of belly-up pose → hand close-up → sudden cut to hind-leg strike.
+      Audio: Soft touch sound, sudden fabric rustle, then silence.
+  - scene_id: s04
+    title: The Favor
+    ltx_prompt: |
+      Setting: Dusk, in front of the single armchair, ritualistic and quiet.
+      Action: Maximus squints and slowly raises one front paw, holding it mid-air as if waiting for a response. The human understands immediately, gently supporting the paw and remaining still. After a brief pause, Maximus closes his eyes. Only then does the human lightly massage the paw pads, slow and restrained.
+      Character: Maximus sits heavily, paw raised like a deliberate grant of permission.
+      Camera: Extreme close-up of paw pads → human palm → return to Maximus’s face.
+      Audio: One very soft, short purr, like an official seal.
+  - scene_id: s05
+    title: A Sound That Shouldn’t Exist
+    ltx_prompt: |
+      Setting: Dusk, living room separated from the kitchen, quiet space.
+      Action: Maximus sits upright on the armchair, eyes closed. From the kitchen comes a carefully muted metallic click—the sound of a can being opened. The sound lingers briefly. Maximus’s ear twitches once. He does not open his eyes.
+      Character: Maximus maintains composure, outwardly unmoved.
+      Camera: Static throne shot → cut toward the kitchen → ear close-up.
+      Audio: A suppressed can-opening sound, unnaturally clear in the silence.
+  - scene_id: s06
+    title: A Scent That Cannot Be Ignored
+    ltx_prompt: |
+      Setting: Same time, living room, air subtly shifting.
+      Action: The human emerges from the kitchen holding the opened can. The scent spreads as he walks. Maximus’s nose twitches lightly. Pause. Then he snaps his eyes open, gaze locking firmly toward the kitchen.
+      Character: Maximus is visibly drawn by instinct for the first time.
+      Camera: Nose detail close-up → pause → sharp cut to eyes opening.
+      Audio: Ambient sound drops away, leaving only breathing.
+  - scene_id: s07
+    title: A Posture That Cannot Be Maintained
+    ltx_prompt: |
+      Setting: Dusk, living room, the can fully in view.
+      Action: The human carries the opened can into the living room. Maximus stares in that direction, attempting to remain seated upright. His eyes track the can’s movement relentlessly; his head stays still, but his gaze betrays him. Almost without transition, he suddenly stands up from the armchair, clumsy and rushed.
+      Character: Maximus rises heavily, dignity visibly cracking.
+      Camera: Eye close-up → can → uninterrupted medium shot of the awkward stand.
+      Audio: Dull thud of paws on the floor, breathing growing heavier.
+  - scene_id: s08
+    title: The King’s Banquet
+    ltx_prompt: |
+      Setting: Dusk, living room, final act of the kingdom.
+      Action: The human places the can on the floor. Instantly, Maximus abandons all royal posture and rushes toward it, lowering his head and eating eagerly. His movements are frantic and focused, tail held high, chewing loud and fast. When the can is empty, he stops, licks his lips, and looks up. After a brief pause, he turns back, climbs onto the armchair, adjusts his position, and sits upright again. He closes his eyes, chest rising evenly, as if nothing happened.
+      Character: Maximus shifts from shameless gluttony back to dignified, languid royalty.
+      Camera: Close-up on eating → pause at the empty can → follow back to the throne and hold.
+      Audio: Clear eating sounds fading away, ending with a low, satisfied purr that echoes the low ambience of s01.
