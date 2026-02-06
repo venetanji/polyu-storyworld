@@ -1,0 +1,46 @@
+name: Lin Heng
+age: 28
+personality: meticulous, calm, observant, pragmatic, quietly determined
+appearance: tall, wears simple clothing, glasses, hands often resting on keyboard, faintly tired eyes
+backstory: >
+  Lin Heng took over the family business after his parents were left in debt and their hopes shattered. At 17, he began learning programming, using logic and code to fix broken systems — both mechanical and personal. Over time, he built a reputation for solving problems others dismissed as impossible. Now, he lives in a modest apartment, working long hours, always watching for subtle signs of failure. He trusts data over intuition, and believes every small flaw can be solved with the right algorithm.
+scenes:
+  - scene_id: s01
+    title: "The First System Crash"
+    ltx_prompt: |
+      Setting: A dimly lit home office at 2:17 a.m., rain tapping against windows. The desk is cluttered with monitors and half-empty coffee mugs.  
+      Visible action: Lin Heng stares at a blinking terminal, fingers hovering over a keyboard. His glasses are slightly fogged. A red error message pulses on screen.  
+      On-screen character: He is in a dark blue hoodie, sleeves rolled up. His posture is tense, eyes fixed on the screen.  
+      Camera: Close-up of his hands as they slowly begin to type. The camera slowly pulls back to reveal the full setup.  
+      Audio: Faint rain, a low hum of server fans. A soft beep echoes as the error message flashes.  
+      TODO: Confirm the specific error message or the system being monitored.
+  - scene_id: s02
+    title: "The Mentor’s Warning"
+    ltx_prompt: |
+      Setting: A sunlit workshop in a coastal town at noon. The air smells of salt and wood.  
+      Visible action: A middle-aged man in a worn leather jacket stands beside a young woman, hands on a rusted tool.  
+      On-screen character: The woman is in a red scarf and practical boots, eyes wide with fear. The man’s hands are steady, voice calm.  
+      Camera: Medium shot, slow dolly in as the mentor speaks.  
+      Audio: Gentle wind, distant seagulls. The mentor says, "You don’t have to fix it alone."  
+      TODO: Confirm the mentor’s identity or the object being worked on.
+  - scene_id: s03
+    title: "The Storm Decision"
+    ltx_prompt: |
+      A small coastal village at night, storm raging, lightning flashes. A young woman in a red scarf stands on a cliff edge, looking down at the sea. She holds a broken compass. The wind howls. Camera: wide-angle shot, slowly tracking inward. Audio: thunder, wind, low hum. Dialogue: "I can't do this alone."  
+    scene_id: s04
+    title: "The First Fix"
+    ltx_prompt: |
+      A workshop at dawn, tools scattered. The young woman in a red scarf works on a broken clock. Her hands are steady, focused. Camera: medium close-up, steady shot. Audio: soft ticking, hammer strikes, quiet hum. Dialogue: "Time is running out."  
+    scene_id: s05
+    title: "The Mentor's Warning"
+    ltx_prompt: |
+      A dimly lit room with old books. An older man in a worn coat watches the young woman from the shadows. He holds a map. Camera: long shot, slow dolly in. Audio: rustling pages, distant wind. Dialogue: "Don't trust the sea. It knows your name."  
+    scene_id: s06
+    title: "The Rival's Challenge"
+    ltx_prompt: |
+      A stormy cliffside. Two figures stand facing each other. One wears a red cloak, the other a black one. They glare at each other. Camera: wide-angle, dynamic tilt. Audio: thunder, wind howling. Dialogue: "You don't belong here."  
+    scene_id: s07
+    title: "The Final Decision"
+    ltx_prompt: |
+      A deserted island at dawn. The character stands at the edge of a cliff, looking out at the sea. The sky is painted in gold and purple. Camera: slow dolly-in. Audio: soft waves, distant birds. Dialogue: "I choose to stay."
+  }
