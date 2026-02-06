@@ -404,6 +404,7 @@ def main():
     if not repo:
         try:
             import subprocess
+            import re
             result = subprocess.run(
                 ['git', 'config', '--get', 'remote.origin.url'],
                 capture_output=True,
@@ -411,9 +412,12 @@ def main():
                 check=True
             )
             origin_url = result.stdout.strip()
-            # Parse repo from URL (e.g., https://github.com/owner/repo.git)
-            if 'github.com' in origin_url:
-                repo = origin_url.split('github.com')[-1].strip('/:').replace('.git', '')
+            # Parse repo from URL (e.g., https://github.com/owner/repo.git or git@github.com:owner/repo.git)
+            # Use regex to extract owner/repo from GitHub URLs
+            github_pattern = r'(?:https?://github\.com/|git@github\.com:)([^/\s]+/[^/\s]+?)(?:\.git)?$'
+            match = re.search(github_pattern, origin_url)
+            if match:
+                repo = match.group(1)
         except Exception:
             pass
     
