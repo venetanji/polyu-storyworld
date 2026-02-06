@@ -1,0 +1,51 @@
+name: Captain Quick
+age: 26
+personality: Charismatic, sunny "pop-star" vibe, media darling, confident, reckless, protective, driven by survivor's guilt, obsessive about truth
+appearance: Anthropomorphic Jaguar, tall lanky parkour physique, handsome youthful face, smirk, jagged brow scar, backward cap with red hair tuft, unzipped tan firefighter jacket, bare chest, tactical trousers, heavy rubber boots, glowing potion vials (Red/Yellow/Green) on belt
+backstory: >
+  Captain Quick (born as an abandoned orphan) was raised by a dedicated firefighter adoptive father.
+  Lacking companionship, Quick grew up rebellious. A childhood prank with fire turned tragic, killing his father who died saving him.
+  The scar on his brow is a permanent reminder. To atone, he became a firefighter relying on agility and Dr. Goat's potions (Strength/Speed/Jump).
+  He acts outwardly sunny and cocky ("Catch me if you can!"), but is internally driven by guilt.
+  Now a celebrated "City Hero," he has recently discovered a clue about his biological parents, pulling him into a conspiracy.
+scenes:
+  - scene_id: s01
+    title: The Hero Amidst the Flames
+    ltx_prompt: |
+      Setting: A chaotic city street at twilight, background filled with smoke and burning buildings. A red fire truck is parked behind with flashing lights.
+      Action: Captain Quick stands confidently in the center of the road, adjusting his sunglasses. He looks calm despite the chaos. His fur is illuminated by the firelight.
+      Character: Anthropomorphic Jaguar, tall lanky physique, unzipped tan firefighter jacket, bare chest, backward cap, glowing potion vials on belt.
+      Camera: Medium wide shot, slow push-in towards the character.
+      Audio: Sounds of crackling fire, distant sirens, and a cool, upbeat bass intro music.
+  - scene_id: s02
+    title: Traffic Jam Parkour
+    ltx_prompt: |
+      Setting: A busy Zootopia highway gridlocked with traffic.
+      Action: Captain Quick drinks the YELLOW potion. He blurs into motion, sprinting across the roofs of cars, leaving a faint yellow trail of light. He is moving incredibly fast while the cars are stationary.
+      Character: Captain Quick, slender jaguar firefighter, athletic parkour movement, glowing yellow aura.
+      Camera: Side-tracking shot moving at high speed to keep up with him, motion blur on the background.
+      Audio: Sound of a cork popping, a "woosh" sound effect, and rapid footsteps on metal.
+  - scene_id: s03
+    title: The Vertical Leap
+    ltx_prompt: |
+      Setting: The base of a burning skyscraper. Smoke is billowing from a high floor.
+      Action: Captain Quick smashes the GREEN potion on the ground. A green energy shockwave propels him upwards. He launches into a massive vertical jump, defying gravity, reaching towards the window.
+      Character: Captain Quick, jaguar firefighter, glowing green aura around his boots.
+      Camera: Low angle looking up (worm's eye view), tilting upwards to follow his jump.
+      Audio: Glass shattering (potion), a sci-fi energy jump sound, wind rushing.
+  - scene_id: s04
+    title: Taming the Beast
+    ltx_prompt: |
+      Setting: Inside a burning hallway, intense orange flames everywhere.
+      Action: Captain Quick unslings his Water Cannon from his back. He fires a high-pressure blast of water, pushing back the flames. Steam fills the room. He looks focused and serious.
+      Character: Captain Quick, holding a heavy mechanical water cannon, muscles tensed, sweat on fur.
+      Camera: Over-the-shoulder shot, focusing on the water stream hitting the fire.
+      Audio: Roaring fire noise being drowned out by the loud hiss of high-pressure water.
+  - scene_id: s05
+    title: The Walk of Fame
+    ltx_prompt: |
+      Setting: A clean city street, daytime, post-disaster.
+      Action: Captain Quick walks down the street, waving to a crowd of smaller animals (rabbits, sheep) who are cheering. He points a finger gun at the camera with a smirk.
+      Character: Captain Quick, unzipped jacket, looking pristine and charismatic.
+      Camera: Front tracking shot (walking backwards as he walks forwards), keeping him in focus.
+      Audio: Cheering crowd, applause, and the character saying "Just doing my job, folks!"
