@@ -374,6 +374,10 @@ def process_pull_requests(github_token: str, repo: str, repo_key_counts: Dict[st
         print("\n⚠️  GITHUB_TOKEN not provided, skipping PR comments")
         return
     
+    if not repo:
+        print("\n⚠️  Repository name not available, skipping PR comments")
+        return
+    
     prs = get_open_prs(github_token, repo)
     print(f"\n📋 Found {len(prs)} open PR(s)")
     
@@ -385,15 +389,7 @@ def process_pull_requests(github_token: str, repo: str, repo_key_counts: Dict[st
         pr_key_counts, pr_file_errors = analyze_pr_yaml_files(github_token, repo, pr_number)
         
         comment = build_pr_comment(pr_number, pr_key_counts, repo_key_counts, pr_file_errors)
-        
-        if github_token:
-            post_pr_comment(github_token, repo, pr_number, comment)
-        else:
-            print("\n" + "="*80)
-            print(f"Comment for PR #{pr_number}:")
-            print("="*80)
-            print(comment)
-            print("="*80)
+        post_pr_comment(github_token, repo, pr_number, comment)
 
 
 def main():
@@ -423,8 +419,9 @@ def main():
             pass
     
     if not repo:
-        print("⚠️  Could not determine repository name")
-        repo = "venetanji/polyu-storyworld"  # Fallback
+        print("⚠️  Could not determine repository name from GITHUB_REPOSITORY or git remote")
+        print("    Repository name is required for posting PR comments")
+        print("    Continuing with key collection only...")
     
     print(f"Repository: {repo}")
     print(f"GitHub Token: {'✅ Available' if github_token else '❌ Not available'}")
