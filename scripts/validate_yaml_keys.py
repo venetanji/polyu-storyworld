@@ -413,9 +413,8 @@ def main():
             origin_url = result.stdout.strip()
             # Parse repo from URL (e.g., https://github.com/owner/repo.git)
             if 'github.com' in origin_url:
-                parts = origin_url.split('github.com')[-1].strip('/:').replace('.git', '')
-                repo = parts
-        except:
+                repo = origin_url.split('github.com')[-1].strip('/:').replace('.git', '')
+        except Exception:
             pass
     
     if not repo:
