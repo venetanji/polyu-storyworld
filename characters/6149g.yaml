@@ -1,42 +1,38 @@
 name: Sir Doggegg
-age: Timeless
-role: Knight of the Perfect Curve, Bearer of the Oval Table
-description: >
-  Sir Doggegg is a living paradox of supreme simplicity.
-  He is perfectly spherical, flawlessly smooth, and radiates the calm, unshakable confidence 
-  of something that has never once considered the possibility of having corners. 
-  His coat (if it can be called that) is the soft warm color of a fresh hard-boiled egg yolk 
-  kissed by sunlight. His eyes are small, dark, and perpetually half-lidded in an expression 
-  of gentle, cosmic contentment.
+age: "Timeless"
+personality: |
+  Always Calm: Nothing upsets him. He never gets mad or embarrassed.
+  Talks Little: He rarely speaks. When he does, he just states simple facts.
+  Likes: Round things, sitting in the sun, and gentle pats.
+  Hates: Sharp corners, stairs, and pointy shapes.
+  Magic: 
+  Turning things with sharp edges into smooth, round shapes.
+  Looking at him makes you forget why you were sad, angry, or stressed. You just feel calm and happy.
 
-  Despite his complete lack of sharp features, dramatic gestures, or comprehensible battle 
-  strategy, Sir Doggegg inspires unshakable loyalty. People, animals, and even objects seem 
-  to relax in his presence. Swords grow dull, arguments lose their edge, and anxious thoughts 
-  quietly roll away when he is near. He is both the least likely knight in Roundavalon and, 
-  somehow, the one everyone instinctively turns to when the world feels too pointed.
+appearance: |
+ Body Shape: 
+  Perfectly round ; no visible neck, ears and legs
+ Color: 
+  Snow-white soft warm coat (fluffy and soft-looking)
+ Face: 
+  Tiny face with big, round, shiny black eyes.
+  Small, black button nose.
+  A slight, polite and calm smile.
+ Tail: 
+ A small, round puff of fur on his lower back (like a bunny tail).
 
-traits:
-  - Unshakable geometric serenity — nothing can upset someone who has already achieved perfect roundness
-  - Polite physical chaos — he apologizes (“Pardon.”) every time he accidentally bowls over a chair, a squire, or an entire banquet table
-  - Extremely limited emotional palette — mainly “content”, “mildly surprised”, “deeply satisfied”, and “ready for nap”
-  - Speaks in short, declarative truths — “I am here.” “This is round.” “Treat now.” “Good.”
-  - Immune to mockery and shame — insults slide off him like water on a polished egg
-  - Low-grade calming aura — beings within ten feet become noticeably calmer and slightly less intelligent
-  - Loves - sunbeams, slow symmetrical pats, things that are also round
-  - Dislikes - corners, stairs, the words “cube”, “edge”, “pyramid”, sudden loud geometry
-  - Secret superpower - the longer someone stares at him, the more they forget why they were upset
+Clothing:
+Cape: A royal blue mantle with a high collar that wraps around his shoulders.
+Accessory: A gold sunburst medal with a blue gem in the center, pinned to the left side of the cape.
 
 backstory: >
   Long ago, in the misty golden fields of Roundavalon, there was a prophecy:
-
   "When the land is troubled by angles, corners, and jagged thoughts,
   there shall rise a knight more round than any other,
   more smooth than polished marble,
   more serene than a sun-warmed egg.
-
   He shall bear no sword, for edges offend him.
   Instead he shall roll forth,
   and by his very roundness restore harmony."
-
-  The king declared him a knight on the spot, 
+  The king declared him a knight on the spot,
   and the Oval Table was built shortly after, because Sir Doggegg could not sit at a square one.
