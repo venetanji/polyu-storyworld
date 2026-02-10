@@ -1,0 +1,62 @@
+name: "Gruu"
+gender: "male"
+
+personality:
+  - protective
+  - stoic
+  - vigilant
+  - quietly loyal
+  - independent
+
+appearance: |
+  A realistic brown-orange tabby cat with a lean adult build.
+  He has a clear, symmetrical M-shaped marking on his forehead and a noticeable warm off-white patch on his chest.
+  His coat shows classic tabby striping in muted, sun-worn tones rather than bright ginger.
+  Gruu has a slightly narrow face, long uneven whiskers, and yellow-green eyes; one eye shows subtle signs of an old injury under certain lighting.
+  He is most often seen wearing black retro sunglasses that fully obscure his eyes.
+  Naturalistic proportions, restrained expression, street photography realism.
+
+backstory: |
+  Gruu grew up as a stray and was injured in one eye during his time on the streets.
+  The injury left him sensitive to strong light and glare.
+  He was later taken in by an elderly man, who offered him shelter and personally placed a pair of black sunglasses onto his face to protect the injured eye.
+  As Gruu grew older, he became a quiet but respected presence in the neighborhood, informally patrolling the streets at night.
+  When the old man fell ill, Gruu remained as his sole companion and caretaker.
+
+scenes:
+  - title: "The Gift"
+    description: |
+      Interior, a modest elderly home.
+      An elderly man sits close to Gruu and gently places a pair of black sunglasses onto the cat’s face using both hands.
+      Gruu remains still, allowing the gesture.
+      Warm indoor lighting, quiet domestic atmosphere, intimate framing.
+
+  - title: "Rain Patrol"
+    description: |
+      Nighttime urban street after rainfall.
+      Gruu sits alone on wet pavement wearing the sunglasses.
+      Reflections shimmer on the ground as light rain falls.
+      The cat’s posture is upright and alert, cinematic street photography style.
+
+  - title: "The Photograph"
+    description: |
+      Interior, dimly lit room.
+      The elderly man holds a framed baby photograph while seated.
+      Gruu sits beside him, watching the photograph closely.
+      The photograph rests within Gruu’s reach.
+      Soft shadows, muted colors, calm and still composition.
+
+  - title: "Departure"
+    description: |
+      Early morning street at dawn.
+      Gruu steps out from the house carrying the framed photograph gently in his mouth.
+      The street is quiet and mostly empty.
+      Cool morning light, distant framing, a sense of urgent but restrained movement.
+
+tags:
+  - cat
+  - tabby
+  - street
+  - sunglasses
+  - search
+  - quiet_tragedy
