@@ -1,0 +1,47 @@
+name: Metalware
+age: 39
+personality: bold yet meticulous, experienced, strong-willed, deeply protective, cheesily loyal
+appearance: wears a metal bamboo hat, metal prosthetic limbs and bones replace most of the left side of the body, wears a metal mask, wears a rags cloak
+backstory: >
+  Metalware was once a brilliant engineer in a war-torn city, who lost a leg and half of his left side in a war between countries. He rebuilt himself using salvaged parts and old technology, forging a new body from metal and bone. Now, he walks the ruins of the city, protecting those who can't defend themselves. But the sacred outlook makes him always misunderstood by others. He hoped there would be no war in the world.
+scenes:
+  - scene_id: s01
+    title: The Forgotten Child
+    ltx_prompt: |
+      Setting: A collapsed school in the city’s ruins, during a storm at dusk.
+      Visible action: A child stumbles into the ruins, covered in mud and blood, barely breathing. Metalware sees her and kneels — his prosthetic left arm trembles as he tries to lift her.
+      On-screen character description: Wears a metal bamboo hat, metal prosthetic limbs and bones replace most of the left side of the body, wears a metal mask, wears a rags cloak — he kneels with calm focus, one hand on the child’s shoulder.
+      Camera: Close-up on his face as rain hits the metal mask; slow push-in on his hands gripping the child.
+      Audio: Distant thunder, child’s weak cough, then a single, soft chime from a broken wind chime.
+  - scene_id: s02
+    title: The Broken Bridge
+    ltx_prompt: |
+      Setting: A crumbling bridge over a ravine, just before nightfall.
+      Visible action: A group of refugees tries to cross, but the bridge groans and collapses. Metalware stands at the edge, watching — then moves to help.
+      On-screen character description: Wears a metal bamboo hat, metal prosthetic limbs and bones replace most of the left side of the body, wears a metal mask, wears a rags cloak — he stands tall, one arm braced against the edge.
+      Camera: Wide shot of the bridge collapsing; tight close-up on his left arm as it moves to brace the edge.
+      Audio: Cracking wood, rising panic, then a sudden silence as Metalware steps forward.
+  - scene_id: s03
+    title: The Ghost of the Lab
+    ltx_prompt: |
+      Setting: A forgotten lab beneath an old hospital, at night, dim light from flickering bulbs.
+      Visible action: A figure finds a sealed room, steps inside, and sees a prototype of his own body — half-assembled, covered in wires and dust.
+      On-screen character description: Wears a metal bamboo hat, metal prosthetic limbs and bones replace most of the left side of the body, wears a metal mask, wears a rags cloak — he stands frozen, hands slightly trembling.
+      Camera: Slow pan through the lab, revealing tools, wires, and a half-finished model of his body.
+      Audio: Faint hum of machinery, distant beeping, then silence.
+  - scene_id: s04
+    title: Storm-Lit Rooftop
+    ltx_prompt: |
+      Setting: A storm-lit rooftop at the edge of a city, dawn breaking, rain dripping from broken eaves.
+      Visible action: A figure stands alone, repairs a damaged drone with his hands, using a makeshift device made from scavenged parts. He finishes the repair, reboots it, and it flies away — a silent, graceful glide into the sky.
+      On-screen character description: Wears a metal bamboo hat, metal prosthetic limbs and bones replace most of the left side of the body, wears a metal mask, wears a rags cloak — he watches the drone with calm focus.
+      Camera: Medium shot tracking from behind as he works, slowly revealing the drone’s recovery.
+      Audio: Wind howling, distant thunder, soft mechanical whirring, and a quiet hum of progress.
+  - scene_id: s05
+    title: The City’s First Peace Rally
+    ltx_prompt: |
+      Setting: A plaza where children are building a monument to peace, during a bright morning.
+      Visible action: Metalware stands at the edge, watching the children — then steps forward, offering a metal sculpture of a child holding hands.
+      On-screen character description: Wears a metal bamboo hat, metal prosthetic limbs and bones replace most of the left side of the body, wears a metal mask, wears a rags cloak — he places the sculpture with quiet dignity.
+      Camera: Wide shot of the rally, then slow zoom on Metalware as he places the sculpture.
+      Audio: Children singing softly, a simple melody, then a single note from a flute.
