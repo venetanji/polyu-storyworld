@@ -1,6 +1,5 @@
 name: "Super Mark"
-personality:"Grandiosity", "Antisocial", "Machiavellian"
-
+personality: "Grandiosity", "Antisocial", "Machiavellian"
 appearance: |
   A highly expressive 3D cartoon character of a sentient mug named 'Super Mark'. 
   The character has a glossy obsidian-black body and two short, agile ceramic legs. 
@@ -8,7 +7,6 @@ appearance: |
   The 'S' logo on its chest pulses with a dark neon crimson light. 
   Thick, stylized purple magic smoke swirls out of the cup like a ghostly cape. 
   3D render, Pixar-villain style, expressive facial features, cinematic rim lighting, Unreal Engine 5, high-quality subsurface scattering on the ceramic.
-
 backstory: |
   Super Mark wasn't always evil. He was once the shiny prize of the office, a trophy mug that everyone wanted to hold. 
   But when the company went remote and the lights went out, Super Mark was left behind in a sink full of cold dishwater. 
