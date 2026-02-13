@@ -1,0 +1,51 @@
+name: Captain Quick
+age: 26
+personality: Charismatic, sunny "pop-star" vibe, media darling, confident, reckless, protective, driven by survivor's guilt, obsessive about truth
+appearance: Anthropomorphic Jaguar, tall lanky parkour physique, handsome youthful face, smirk, jagged brow scar, backward cap with red hair tuft. Wears unzipped tan firefighter jacket with "CAPTAIN" text, bare chest, tactical trousers, heavy black rubber firefighter boots. Carries a heavy mechanical water tank backpack with a metal cannon nozzle.
+backstory: >
+  Captain Quick (born as an abandoned orphan) was raised by a dedicated firefighter adoptive father.
+  Lacking companionship, Quick grew up rebellious. A childhood prank with fire turned tragic, killing his father who died saving him.
+  The scar on his brow is a permanent reminder. To atone, he became a firefighter relying on agility, heavy tech gear, and Dr. Goat's potions (Strength/Speed/Jump).
+  He acts outwardly sunny and cocky ("Catch me if you can!"), but is internally driven by guilt.
+  Now a celebrated "City Hero," he has recently discovered a clue about his biological parents, pulling him into a conspiracy.
+scenes:
+  - scene_id: s01
+    title: Traffic Jam Parkour
+    ltx_prompt: |
+      Setting: A busy Zootopia highway gridlocked with traffic (diverse animal drivers only). Twilight/Sunset.
+      Action: Captain Quick sprints across car roofs. He is drinking a small, test-tube sized YELLOW potion held in his hand. He blurs into motion, leaving a faint yellow trail of light.
+      Character: Captain Quick, slender jaguar firefighter, heavy backpack, drinking from a tiny vial. Belt has Red and Green potions remaining.
+      Camera: Side-tracking shot moving at high speed to keep up with him, motion blur on the background.
+      Audio: Sound of a cork popping, a "woosh" sound effect, and rapid footsteps on metal.
+  - scene_id: s02
+    title: The Hero Amidst the Flames
+    ltx_prompt: |
+      Setting: A chaotic city street at twilight, background filled with smoke and burning buildings. A red fire truck is parked behind with flashing lights. NO HUMANS.
+      Action: Captain Quick stands confidently in the center of the road, adjusting his cool sunglasses with a smirk. He has just arrived. His belt holds only Red and Green potions (Yellow was used to arrive).
+      Character: Anthropomorphic Jaguar, heavy mechanical water tank backpack, black rubber boots, unzipped jacket, sunglasses on face.
+      Camera: Medium wide shot, slow push-in towards the character.
+      Audio: Sounds of crackling fire, distant sirens, and a cool, upbeat bass intro music.
+  - scene_id: s03
+    title: The Vertical Leap
+    ltx_prompt: |
+      Setting: The base of a burning skyscraper. Nighttime/Firelight.
+      Action: Captain Quick leaps upwards towards the fire. Mid-air, he drinks a small, test-tube sized GREEN potion. A green energy shockwave surrounds his heavy boots, propelling him skyward. He is wearing sunglasses reflecting the fire.
+      Character: Captain Quick, heavy backpack, black rubber boots, sunglasses, glowing green aura. Belt holds only the Red potion.
+      Camera: Extreme low angle (worm's eye view) looking up, following his jump towards the building.
+      Audio: Gulping sound, a sci-fi energy jump sound, wind rushing.
+  - scene_id: s04
+    title: Taming the Beast
+    ltx_prompt: |
+      Setting: Inside a burning hallway, intense orange flames everywhere.
+      Action: Captain Quick drinks the RED potion (Strength) to handle the heavy equipment. A red aura glows around him. He aims the Water Cannon and fires a high-pressure blast, pushing back the flames.
+      Character: Captain Quick, heavy mechanical water tank backpack, red strength aura, sweat on fur, sunglasses on face. Belt is now EMPTY.
+      Camera: Over-the-shoulder shot, focusing on the water stream hitting the fire.
+      Audio: Roaring fire noise being drowned out by the loud hiss of high-pressure water and a power-up sound.
+  - scene_id: s05
+    title: The Walk of Fame
+    ltx_prompt: |
+      Setting: A clean city street, daytime, post-disaster. Crowd of small animals cheering.
+      Action: Captain Quick walks down the street, waving. He gives a "finger gun" gesture to the camera with a wink. His sunglasses are pushed up on his cap to show his eyes.
+      Character: Captain Quick, unzipped jacket, looking pristine but equipment is slightly sooty. Belt is COMPLETELY EMPTY.
+      Camera: Front tracking shot (walking backwards as he walks forwards), keeping him in focus.
+      Audio: Cheering crowd, applause, and the character saying "Just doing my job, folks!"

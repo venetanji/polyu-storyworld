@@ -1,0 +1,61 @@
+name: Cheri
+age: 15
+personality: empathetic yet rebellious, wise beyond apparent age, observant, irreverently humorous
+appearance: long voluminous orange hair, emerald green eyes, infinity symbol etched on the forehead, oversized beige high-neck sweater, dark denim shorts, flowing red robe
+backstory: >
+  Cheri is an androgynous guide bound to an ancient and secluded temple, revered by visitors
+  for their youthful appearance and unsettlingly profound wisdom. Existing as a spiritual
+  beacon rather than an individual, Cheri has listened to countless confessions of guilt,
+  greed, and grief. Over time, this accumulation of human darkness has shaped them into an
+  old soul in a young body, simultaneously serene and quietly rebellious. Beneath the role
+  of sacred symbol lies a persistent longing to leave the temple behind and experience a
+  self-directed life beyond ritual, devotion, and expectation.
+scenes:
+  - scene_id: s01
+    title: The Golden Hour Wisdom
+    ltx_prompt: |
+      Ancient stone courtyard within temple grounds at sunset,
+      warm golden-hour light illuminating weathered stone textures.
+      An androgynous teenage figure with long orange hair
+      sits atop a stone pedestal,
+      a flowing red robe pooling like spilled wine.
+      A weary merchant kneels below, shoulders trembling with guilt.
+      Cheri gently pats the merchant’s head,
+      emerald eyes reflecting an impossible calm.
+      The infinity symbol on their forehead glows faintly.
+      Sacred silence fills the space before
+      the mood shifts abruptly into dry, absurd humor,
+      breaking tension into confused, genuine laughter.
+
+  - scene_id: s02
+    title: Night Vigil in the Inner Temple
+    ltx_prompt: |
+      Interior of an ancient temple at night,
+      towering pillars fading into deep shadows.
+      Sparse torchlight flickers against stone walls,
+      casting elongated silhouettes.
+      Cheri stands alone at the center of the hall,
+      red robe hanging loosely, oversized sweater visible beneath.
+      The infinity mark on their forehead pulses softly,
+      synchronizing with their breathing.
+      Echoes of whispered prayers linger in the air,
+      yet Cheri’s expression reveals restlessness,
+      as if listening for a call beyond the temple’s walls.
+      The camera drifts slowly backward,
+      emphasizing isolation within sacred grandeur.
+
+  - scene_id: s03
+    title: Dream of the Outside World
+    ltx_prompt: |
+      Surreal, dreamlike open landscape beyond the temple,
+      vast sky washed in muted blues and pale gold.
+      Cheri walks barefoot through tall grass,
+      red robe trailing behind, hair moving freely in the wind.
+      No pilgrims, no stone walls, no altars.
+      The infinity symbol dims,
+      nearly blending into skin.
+      Cheri pauses, glancing toward the horizon,
+      uncertain yet visibly lighter.
+      The camera circles slowly,
+      capturing a moment suspended
+      between liberation and hesitation.

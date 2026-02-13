@@ -1,0 +1,65 @@
+name: EDGE-IV
+alias: Sky Arbiter
+
+classification: Judgment-Class Aerial Unit
+rank: Final Enforcement Tier
+deployment_condition: City-level emergency only
+authority_level: Absolute
+
+type: Autonomous Enforcement Android
+status: Fully Operational
+
+appearance:
+  silhouette: Slim aerodynamic biomechanical frame
+  armor: Metallic blue composite plates with gold accents
+  wings: Six curved cyber wings with translucent circuit membranes
+  head: Helmet-like sensor shell with a dark visor cavity
+  weapons: Dual scythe-shaped blade arms
+
+core_system:
+  processor: Quantum Logic Core
+  operating_mode: Absolute Law Execution
+  emotion_module: Disabled
+  autonomy_level: Restricted
+
+communication:
+  method: Encrypted command bursts and warning tones
+  voice: None
+  behavior: Minimal gestures, machine-precise movements
+
+abilities:
+  - High-speed aerial pursuit
+  - Multi-target identification and tracking
+  - Automated combat response
+  - Urban airspace lockdown enforcement
+  - Non-stop mission endurance
+
+background:
+  origin: Built by the Central Authority to enforce aerial jurisdiction
+  purpose: Final-level judgment and suppression in high-risk zones
+  deployment_zone: Mega-city airspace and industrial sectors
+  control_method: Central AI regulation and legal priority algorithms
+
+scenes:
+  - title: Judgment Protocol
+    description: >
+      EDGE-IV intercepts an illegal aircraft convoy and issues a single automated warning.
+      After 3 seconds, it executes a clean elimination with its scythe arms.
+
+  - title: Zero-Tolerance Lockdown
+    description: >
+      A district is declared unstable. EDGE-IV seals the sky-lanes, disables all drones,
+      and enforces evacuation corridors without reacting to civilian distress.
+
+  - title: Last Directive Loop
+    description: >
+      Communications collapse during a blackout. EDGE-IV continues to patrol,
+      strictly enforcing the last legal directive until power is restored.
+
+relationships:
+  authorities:
+    - Central Security Bureau
+    - Judicial AI Network
+  monitored_targets:
+    - Illegal cyber syndicates
+    - Unauthorized resistance cells

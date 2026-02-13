@@ -1,0 +1,28 @@
+name: Elias
+age: 38
+personality: determined, introspective, idealistic, pragmatic, haunted
+appearance: dark brown eyes, weathered hands, worn coat, short brown hair, carries a worn satchel
+backstory: >
+  Elias was once a Royal Mage in a world where magic was the foundation of power. His family, seeking a new world, fled to a remote village where he discovered a manuscript about "Earth"—a world without magic. He believed this was his second chance. But upon arrival, he realized magic never vanished—it simply changed its name. In this world, power, capital, language, identity, and credentials are the new magic. Without them, he remains powerless under a different set of rules.
+scenes:
+  - scene_id: s01
+    title: "The Day the Magic Went Quiet"
+    ltx_prompt: |
+      Setting: A grand palace stage at night, lit by flickering chandeliers and spell-lit fireworks. The air is thick with anticipation. Fireworks of spell-light burst into the sky—then, mid-air, they falter and fade. The Royal Mage stands frozen in place, one hand raised, a smile stretched too wide. Behind the curtains, a debt notice peeks from his royal cloak pocket. Two small children watch from the side, their hands empty—no sparks, no glow.  
+      Visible action: Elias’s dark brown eyes flicker to a young mage backstage, who stands silently, holding a scroll. The royal mage forces a laugh for the crowd, but his gaze lingers on the young mage. A subtle tremor runs through his hands.  
+      Camera: Wide shot of the stage, then tight close-up on Elias’s face as he smiles—then a slow dolly-in to show the children’s empty hands.  
+      Audio: The spell-fireworks fizz and die. A sharp, hollow chime echoes. A soft, melancholic hum begins, rising and fading. Voiceover: “Once, talent and effort pulled me out of the dirt. Then one day… the magic left. And it didn’t leave me freedom—it left me bills.”
+  - scene_id: s02
+    title: "Borrowed Spells, Stolen Breath"
+    ltx_prompt: |
+      Setting: A dim, stone-walled corridor behind the royal theater, lit by a single oil lamp. The air smells of old parchment and cold metal. Elias signs official papers with a seal that glows faintly before dimming. A nameless young mage’s scroll vanishes into his sleeve. On stage, Elias performs dazzling spectacle magic—flames rise, lights swirl, the crowd gasps. The young mage sits outside in the cold, unseen.  
+      Visible action: Suddenly, war horns blare. The palace shifts from gold to iron. The stage lights flicker and die. Real battle scenes unfold—soldiers clash, armor clinks. Elias stumbles off stage, face pale. He drops to his knees and confesses to the crowd—his title is revoked. A stamp hits the table: STRIPPED OF RANK. NO INCOME. Outside, footsteps approach—not soldiers, but creditors.  
+      Camera: Close-up on Elias’s hand as he signs the paper, then a quick cut to the young mage’s face in the cold. Then a wide shot of the stage turning dark, followed by a slow dolly to Elias on the floor.  
+      Audio: War horns blast, then cut to silence. A soft, echoing chime. Voiceover: “In peaceful times, a Royal Mage only needs to look powerful. So I learned to borrow miracles… and call them mine. But when enemies arrived, the stage lights couldn’t protect me.”
+  - scene_id: s03
+    title: "Earth: Where Magic Has a New Name"
+    ltx_prompt: |
+      Setting: A rainy alley in a modern city. Neon signs flicker like broken stars. The air is cold and heavy. Elias and his children flee with one suitcase. He collapses beside a trash pile and finds a battered manuscript titled “EARTH.” Pages show a world without magic, where ordinary people survive.  
+      Visible action: Cut to a new city—neon lights, unfamiliar language, cold faces, endless forms. Elias tries to speak, but no one listens. A security guard blocks him with a simple gesture. The children confirm: no magic here… and still no power. He stares into a shop window. Reflected back is the same man—different world, same helplessness. His eyes dim… then a tiny star flickers again.  
+      Camera: Long shot of the alley, then a slow push-in on Elias as he holds the manuscript. Cut to a wide view of the city—cold, indifferent. Then a close-up on the shop window reflection, showing Elias’s face dimming, then flickering.  
+      Audio: Rain taps steadily. A distant siren. A soft, melancholic hum. Voiceover: “I thought I’d escaped magic. But it just changed shape. Now I must build it from nothing.”
