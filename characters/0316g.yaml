@@ -1,0 +1,25 @@
+name: Remy
+age: 16
+personality: thoughtful, quiet, observant, brave, slightly shy
+appearance: 16-year-old, dark hair, green eyes, white dog ears, wears a worn jacket, always carries a small notebook
+backstory: >
+  Remy has lived in the quiet town of Hollowbrook his whole life. He’s always been different — his ears twitch when others don’t notice, and he hears things others miss. At school, he’s often overlooked, but he’s deeply kind. When he was 10, he saved a bird from a broken window, and ever since, he’s felt a connection to animals and nature. He keeps a notebook filled with sketches and strange observations. No one knows what he really is — or why he has ears like that — but he’s learned to live with it. He doesn’t want to be feared, only understood.
+scenes:
+  - scene_id: s01
+    title: "The Rain That Feels Like a Mirror"
+    ltx_prompt: |
+      A quiet park after school, rain falling steadily, the sky darkening. Remy walks alone through a narrow path, boots splashing in puddles. A shallow puddle reflects a distorted image of him—his white dog ears are large and sharp, his eyes glowing faintly, his posture tense. He stops, stares at the reflection, and takes a deep breath. “I don’t want to be that,” he whispers, voice low. The rain drums softly, and for a moment, he feels the weight of being seen—not just as a person, but as something else. The reflection flickers, then fades.
+      Camera: Close-up of the puddle, then slow zoom into Remy’s face as he stares at the reflection. The shot lingers on his eyes, then pulls back slightly to show the rain-soaked park.
+      Audio: Rain hitting pavement, soft hum (like a distant chime), then silence as Remy whispers: “I don’t want to be that.”
+  - scene_id: s02
+    title: "The Promise Under the Trees"
+    ltx_prompt: |
+      A quiet park after school, golden afternoon light filtering through trees. Remy and the girl from the cafeteria sit under a large oak tree, the wind rustling leaves. She says, “I want to know more about you.” Remy hesitates, then says, “I’ve never had a friend who sees me.” They share a quiet moment—no words, just presence. The air feels still, full of trust.
+      Camera: Medium close-up of them sitting together, soft golden lighting, slow pan from side to side.
+      Audio: Gentle rustling of leaves, soft wind, dialogue in quotes: “I want to know more about you,” “I’ve never had a friend who sees me.”
+  - scene_id: s03
+    title: "The Guardian of the Festival"
+    ltx_prompt: |
+      A lively school festival during the weekend, bright colors, music playing, children laughing. A group of kids gets lost near the food stalls. Remy calmly steps in, leading them gently with quiet confidence. He doesn’t speak much, just gestures and points. When they find the exit, one child says, “You’re like a quiet hero.” Remy smiles slightly, eyes bright.
+      Camera: Wide shot of the festival, then close-up of Remy walking with the kids, hands steady, eyes calm.
+      Audio: Festival music, children laughing, a soft chime, then a quiet “Thank you.”
