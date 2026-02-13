@@ -1,0 +1,34 @@
+name: "Eldric Thorne"
+age: 78
+gender: "Male"
+occupation: "Retired Watchmaker / Aspiring Street Lifter / Dream Realm Mage"
+
+appearance:
+  height: "165cm"
+  build: "Deceptively frail, but stands with the puffed chest of a bodybuilder"
+  hair: "Wispy white hair, often tied back with a sweatband"
+  features:
+    - "Knobbly knees visible under gym shorts"
+    - "Hands calloused not from iron, but from gripping his wand in dreams"
+    - "Always wears a lifting belt, even over his pajamas"
+  clothing: "Retro 80s tracksuit, oversized lifting straps, and orthopedic sneakers"
+
+personality:
+  - "Incredibly competitive regarding physical strength"
+  - "Secretive about his 'night classes'"
+  - "Dismissive of 'limitations of the flesh'"
+  - "Believes gravity is just a suggestion"
+
+hobbies:
+  - "Watching 'Street Lifting' compilations on a dusty tablet"
+  - "Sleeping (which he insists is 'Arcane Resistance Training')"
+  - "Chalking up his hands before picking up a teacup"
+lifestyle: "Lives a dual existence: a struggling senior in the waking world, and a prodigy gravity mage in the slumber realm."
+
+background: "After seeing a local street lifting competition, Eldric felt a pang of regret for a life spent hunched over watches. He attempted a pull-up and threw out his back. That night, in a pain-killer induced haze, he drifted not into sleep, but into the Grand Hall of the Aetherial Academy. There, he isn't learning to make clocks; he's learning that weight is relative. Upon waking, he found his coffee mug floating an inch off the table."
+
+story_hook: >
+  Eldric has signed up for the 'Iron City Street Lift Championship', much to the amusement of the local gym rats. 
+  They see a frail old man; he sees a physics equation he can solve. 
+  Every night, he masters advanced gravity spells in the dream world to prepare for his heavy singles in reality.
+  But as the competition nears, the barrier between worlds thins¡ªand lifting 200kg might accidentally crush the stage if he sneezes.
