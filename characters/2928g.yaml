@@ -1,5 +1,15 @@
 name: "Super Mark"
-personality: Grandiosity Antisocial Machiavellian
+
+personality:
+  traits: ["Grandiosity", "Antisocial", "Machiavellian"]
+  development_curve:
+    origin: "Originally a shiny, gold-trimmed trophy mug awarded to 'Employee of the Year' in a stylized 3D world."
+    corruption: "After being abandoned in a damp, dark breakroom, a sentient purple mold transformed its insides, turning its pride into pure malice."
+    villain_peak: "It now commands a miniature army of rogue teaspoons and sugar packets, plotting to overthrow the 'Big Human' corporate world."
+  superpowers:
+    - "Scalding Snipers: Fires high-pressure jets of boiling espresso from its handle with expert precision."
+    - "Caffeine Whispers: Its handle glows when it speaks, broadcasting paranoiac thoughts directly into the minds of tired office workers."
+    - "Vacuum Grip: Its tiny ceramic legs can suction to any surface, making it impossible to move when it wants to stay put."
 appearance: |
   A highly expressive 3D cartoon character of a sentient mug named 'Super Mark'. 
   The character has a glossy obsidian-black body and two short, agile ceramic legs. 
@@ -12,3 +22,20 @@ backstory: |
   But when the company went remote and the lights went out, Super Mark was left behind in a sink full of cold dishwater. 
   A mutation occurred—the coffee dregs merged with his ceramic soul. He grew legs, a cruel voice, and a permanent mocking sneer. 
   Now, he roams the deserted corridors at night, preparing for the day the humans return, so he can show them who the real 'Boss' is.
+
+Scene 1: |
+  Medium shot, 3D animation. Super Mark stands on a high stack of manila office folders, looking down like a conqueror. 
+  Its 'S' logo pulses rapidly. In the background, out-of-focus teaspoons and crumpled sugar packets move like a miniature army, marching out from the shadows of a computer monitor. 
+  The purple smoke from Mark's head swirls into a regal cape. Dramatic theatrical lighting, vibrant colors against dark shadows, Pixar-style character animation, high-quality 3D render.
+
+Scene 2: |
+  Stylized 3D animation. Super Mark floats slightly above a pile of dark roasted coffee beans, supported by thick, swirling purple magical smoke. 
+  The mug uses its handle to delicately pick up a single, golden-glowing coffee bean and places it on its rim like a crown. A shockwave of translucent energy (Caffeine Whispers) ripples outward from the mug. 
+  Magical particle effects, epic cinematic lighting, vibrant purples and golds, high-quality subsurface scattering on the black ceramic.
+  
+Scene 3: |
+  Close-up, 3D animation. A blurry human hand reaches into the frame and tries to pull Super Mark upward. The mug doesn't budge; 
+  its tiny ceramic feet are visibly suctioned to the desk surface, causing the desk mat to stretch. 
+  The mug's handle glows with an eerie cyan light.
+  The air around the mug ripples with a heat-haze effect (representing psychic whispers). Super Mark looks up at the hand with a sharp, toothy porcelain grin. High contrast, 
+  subsurface scattering on ceramic, intense psychological atmosphere.
