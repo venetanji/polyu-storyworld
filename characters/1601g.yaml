@@ -1,0 +1,51 @@
+name: Margaux Macchiato
+age: 22
+personality: Adaptive, socially masked, resentful of inherited power, strategic perfectionist, emotionally restrained, morally self-justifying
+appearance: Petite, upright posture, deep brown eyes, pure white fur, rigid upright rabbit ears, immaculate pink chef’s uniform and hat, precise delicate hand movements
+backstory: >
+  Margaux Macchiato was once a nameless rabbit cook in the service of a powerful rat clan, valued only for her extraordinary culinary skill.
+  While preparing feasts for the family, she learned of their hoarded ancestral delicacies—rare ingredients guarded more jealously than bloodlines—and desire quietly took root.
+  During a lavish clan gathering, she poisoned the patriarch with a dish so exquisite that suspicion never touched her.
+  In the chaos that followed, she disappeared, abandoning her past, her species, and her name.
+  Reborn as Margaux Macchiato, she carried both stolen techniques and forbidden ingredients into the human world, where Michelin kitchens would mistake her obsession for genius.
+scenes:
+  - scene_id: s01
+    title: The Perfect Dish
+    ltx_prompt: |
+      Setting: Underground rat-clan banquet hall, late night, candlelit, heavy shadows, air thick with smoke and rich food aromas.
+      Action: Margaux plates a ceremonial dish with flawless precision. Nearby, the rat patriarch boasts about hoarded ancestral ingredients forbidden to servants. Her hands remain steady as her upright ears stiffen slightly.
+      Character: Margaux Macchiato — petite white-furred rabbit, immaculate pink chef’s uniform and hat, rigid ears, deep brown eyes; posture upright, movements exact, emotion tightly contained.
+      Camera: Slow push-in from medium shot to extreme close-up on her hands finishing the dish, then her eyes.
+      Audio: Cutlery clinks, low murmurs, a subtle heartbeat-like bass beneath ambient chatter.
+  - scene_id: s02
+    title: Back Kitchen Precision
+    ltx_prompt: |
+      Setting: Back kitchen of the rat-clan compound, late night, dim oil lamps, flour dust in the air, cramped and overheated.
+      Action: Margaux prepares cakes and desserts in silence—whisking cream, tempering chocolate, piping icing with surgical precision. Any imperfect dessert is discarded and remade without hesitation.
+      Character: Margaux Macchiato — petite white-furred rabbit, immaculate pink chef’s uniform and hat, ears angled slightly backward; movements economical and controlled, expression serene and sealed.
+      Camera: Close-up inserts of hands piping frosting and cutting cake layers; slow lateral tracking shot across perfectly aligned desserts.
+      Audio: Metal bowls scraping, steady whisking, distant banquet sounds muffled through stone walls.
+  - scene_id: s03
+    title: Seen but Unspoken
+    ltx_prompt: |
+      Setting: Narrow back-kitchen corridor, stone walls damp with condensation, banquet in progress.
+      Action: Margaux passes through carrying a tray that includes a forbidden ingredient. An older rat cook notices, pauses, then silently steps aside, allowing her to pass without comment.
+      Character: Margaux Macchiato — petite white-furred rabbit, upright posture, immaculate pink chef’s uniform; eyes briefly meet the other cook’s, expression unreadable, pace unbroken.
+      Camera: Symmetrical two-shot during the glance, then a slow pull-back as she walks away down the corridor.
+      Audio: Dripping water, distant clatter from the hall, no dialogue.
+  - scene_id: s04
+    title: No Margin for Error
+    ltx_prompt: |
+      Setting: Main kitchen just before serving, tension heavy, lamps flickering.
+      Action: Margaux completes the final step of the dish with absolute calm, adding the decisive element. She then carries the plate through the banquet hall and places it before the patriarch without hesitation.
+      Character: Margaux Macchiato — petite white-furred rabbit, immaculate pink chef’s uniform and hat, rigid ears; face composed, movements smooth and deliberate.
+      Camera: Static frontal medium shot during preparation, then a controlled follow-shot as the dish is delivered to the table.
+      Audio: Kitchen ambience drops to near silence, heartbeat subtly audible, porcelain plate touching the table amplified.
+  - scene_id: s05
+    title: Misread as Genius
+    ltx_prompt: |
+      Setting: Aftermath corridor filled with movement and noise, then a hard cut to a bright human Michelin kitchen, daytime.
+      Action: Rat-clan members rush past carrying the patriarch’s body, no one stopping Margaux or questioning her. Cut to the human kitchen: chefs taste her dessert and nod in admiration.
+      Character: Margaux Macchiato — first in her pink uniform amid chaos, ignored; then in a pristine human kitchen, posture identical, expression calm and unreadable.
+      Camera: Wide shot of chaotic corridor swallowing her figure, smash cut to clean, stable medium shots in the human kitchen.
+      Audio: Overlapping shouts and orders fade abruptly into quiet kitchen ambience and a human voice saying, “Incredible precision.”
