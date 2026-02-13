@@ -1,0 +1,18 @@
+name: Yoichi 
+age: 17
+personality: >
+  Extremely competitive and ego-driven on the pitch. Normally polite, humble, and team-oriented off the field, but becomes intensely focused, provocative, and ruthless during matches to win at all costs. Highly analytical, quick to adapt, reads the field exceptionally well (spatial awareness / Metavision), and continuously evolves.
+appearance: >
+  Japanese high-school footballer, 175 cm tall, athletic lean build. Dark blue short hair, sharp intense blue eyes that glow in "flow" state. Often wears Blue Lock #11 uniform (white/blue tracksuit or kit), casual streetwear off-field.
+backstory: >
+  Former ace striker of Ichinan High School. In the prefectural final, he passed instead of shooting due to "team play" values and regretted it deeply when the chance was lost. Invited to Blue Lock (started rank 299), discovered his weapon — exceptional field vision and adaptability — and evolved into a direct-shooting egoist striker who can predict and dominate plays.
+scenes:
+  - scene_id: s01
+    title: Rin's Clearance and the Lucky Drop
+    ltx_prompt: chaotic midfield battle, Rin Itoshi in destroyer mode kicks ball high after stealing from Sae Itoshi, ball arcs upward in slow motion, stadium lights glaring, crowd roaring, Yoichi Isagi sprinting into position with blue flow aura starting to appear around him, anime style dynamic action
+  - scene_id: s02
+    title: Perfect Positioning and Volley Shot
+    ltx_prompt: falling ball near penalty area, U-20 defenders jumping too late, Isagi perfectly timed arrival at the drop point, intense close-up on focused eyes and blue energy flare, right foot cocked back for powerful volley, dramatic side angle, high-speed impact lines, Blue Lock anime aesthetic
+  - scene_id: s03
+    title: Winning Goal Explosion
+    ltx_prompt: ball rockets into net ripping the side netting, goal whistle blows, scoreboard shows 4-3 Blue Lock victory, Isagi frozen in powerful shooting follow-through pose arms outstretched, stadium erupts in massive cheers and lights, teammates rushing toward him, triumphant cinematic wide shot with blue sparks fading, epic celebration moment
