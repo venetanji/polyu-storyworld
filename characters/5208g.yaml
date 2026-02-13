@@ -1,0 +1,88 @@
+name: Lumen
+age: 
+  scene_id1: "Newly lit"
+  scene_id2: "Young adult"
+  scene_id3: "Near the end of life"
+
+personality:
+  scene_id1: "Curious, innocent, full of wonder"
+  scene_id2: "Brave, adventurous, willing to burn brighter for meaning"
+  scene_id3: "Warm, wise, calm, accepting of life's end"
+
+voice_style:
+  scene_id1: "Soft, curious, gentle"
+  scene_id2: "Energetic, hopeful, passionate"
+  scene_id3: "Warm, steady, peaceful, reassuring"
+
+appearance:
+  body: "Ivory pillar candle body"
+  arms: "Soft rounded wax arms"
+  legs: "None"
+  movement: "Hovers slightly above ground, leaving a melted wax trail behind"
+  eyes: "Small expressive glowing ember eyes"
+  flame: "Golden flame on top of head, changes size with emotion"
+  aging:
+    scene_id1: "Tall smooth wax, bright lively flame, minimal dripping"
+    scene_id2: "Wax slightly uneven with hardened drips, strong bright flame"
+    scene_id3: "Short melted body, pooled wax base beneath, small steady flame"
+
+backstory: >
+  Lumen is a Candlefolk born when his parents pass their flame to his wick.
+  From that moment, he begins melting — living and aging at the same time.
+  Candlefolk cannot stop burning, and cannot relight once extinguished.
+  The brighter they burn, the faster they melt.
+  Throughout his life, Lumen chooses to burn bravely — for adventure,
+  for friendship, and for meaning. As he moves, he leaves a wax trail
+  behind him, forming a path that symbolizes the life he has lived.
+  In old age, he understands that it is not the length of the flame
+  that matters, but how brightly and meaningfully it burned.
+  
+scenes:
+  - scene_id: 1
+    title: "The First Spark"
+    ltx_prompt: >
+      Pixar-style 3D animated cinematic scene.
+      A dark ceremonial hall filled with unlit candlefolk children standing quietly.
+      In the center stands a small ivory candlefolk child with smooth wax body,
+      glowing ember eyes, soft rounded wax arms, no legs.
+      Behind the child stand two taller parent candlefolk with warm steady golden flames.
+      The parents gently hold the child's wax hands and lean forward,
+      touching their flames to the child’s wick to ignite it.
+      A small flicker appears, then the child ignites with a soft golden flame.
+      The child’s eyes widen with wonder as the first drop of melted wax falls
+      to the floor and solidifies.
+      Warm golden light slowly fills the dark room.
+      Emotional, heartwarming tone, volumetric lighting,
+      shallow depth of field, expressive eyes,
+      cinematic storytelling, high quality Pixar-style 3D animation.
+
+  - scene_id: 2
+    title: "The Burning Sky"
+    ltx_prompt: >
+      Pixar-style 3D animated cinematic scene.
+      A young candlefolk with slightly melted wax sides and a strong bright flame
+      stands inside a hot air balloon basket with fantasy creature friends.
+      The balloon struggles to rise.
+      The candlefolk smiles and burns brighter, flame growing larger and golden,
+      heating the air balloon and lifting it into the sky.
+      Friends cheer as the balloon rises above beautiful sunset clouds.
+      Golden light from the flame illuminates their faces.
+      Melted wax drips gently over the basket edge.
+      Dynamic camera movement, wide cinematic sky,
+      volumetric sunset lighting, emotional adventurous tone,
+      high quality animated film rendering, Pixar-style 3D.
+
+  - scene_id: 3
+    title: "The Final Glow"
+    ltx_prompt: >
+      Pixar-style 3D animated emotional scene.
+      An elderly candlefolk with a short melted wax body and a small steady golden flame
+      sits on a cozy sofa in a warm living room.
+      Pooled wax forms a base beneath him.
+      Several tall bright-flamed candlefolk grandchildren sit around listening.
+      The elder smiles gently while telling a story.
+      One grandchild looks up and asks a question.
+      Warm amber lighting fills the room,
+      soft shadows, shallow depth of field,
+      heartwarming cinematic atmosphere,
+      expressive glowing eyes, high quality Pixar-style 3D animation.
