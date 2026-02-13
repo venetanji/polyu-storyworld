@@ -1,8 +1,36 @@
 name: Seven
 age: Unknown (elderly cat)
-personality: Seven is silent, observant, and deeply empathetic. He moves slowly and gently, guided not by instinct alone but by an emotional sensitivity to what truly matters to others. He does not lead or command — he accompanies. His presence is calm, fragile, yet unwavering, embodying memory and quiet devotion.
-appearance: Seven is a small, aging orange cat with slightly faded fur and deep, reflective eyes. His body is light and fragile, marked by time and wandering. One of his front paws shows a subtle old injury. Around his neck hangs a worn red pouch, carrying a final trace of his past. His movements are slow, careful, and almost meditative, as if he walks between memory and reality.
-backstory: Seven was found during a stormy night, weak and near death, in a narrow alley behind the Eternal Store. Saved by the old man and his granddaughter, he grew up surrounded by stories, memories, and silence. Over time, he developed an unusual sensitivity, he could sense objects that carried emotional weight and fragments tied to human memories and forgotten bonds. After the death of both his caretakers, Seven remained alone, guarding the store and continuing their mission without fully understanding it. He does not search for meaning, only for connection. To him, protecting memories is the same as protecting the people he loved.
-aspirations: Seven does not seek goals in a human sense. He is driven by emotional instinct: to protect the Eternal Store, preserve the memories left behind, and unconsciously reunite with the warmth of his lost family. His true aspiration is not to find something new, but to ensure that what once mattered is never erased.
-strengths: Extraordinary sensitivity to emotionally meaningful objects, persistence, quiet resilience, ability to create emotional connection without words, symbolic presence of memory and continuity, strong instinct for guidance and protection.
-weaknesses: Physically fragile and limited, unable to communicate directly, lives emotionally tied to the past, depends on human help to complete his mission, carries a deep silent loneliness, his strength comes from vulnerability rather than power.
+
+personality: >
+  Seven is silent, observant, and deeply empathetic. He moves slowly and gently,
+  guided not by instinct alone but by an emotional sensitivity to what truly
+  matters to others. He does not lead or command — he accompanies. His presence
+  is calm, fragile, yet unwavering, embodying memory and quiet devotion.
+
+appearance: >
+  Seven is a small, aging orange cat with slightly faded fur and deep, reflective
+  eyes. His body is light and fragile, marked by time and wandering. One of his
+  front paws shows a subtle old injury. Around his neck hangs a worn red pouch.
+
+backstory: >
+  Seven was found during a stormy night, weak and near death, in a narrow alley
+  behind the Eternal Store. Saved by the old man and his granddaughter, he grew
+  up surrounded by stories, memories, and silence. Over time, he developed an
+  unusual sensitivity and could sense objects that carried emotional weight and
+  fragments tied to human memories and forgotten bonds. After the death of both
+  his caretakers, Seven remained alone, guarding the store and continuing their
+  mission without fully understanding it.
+
+aspirations: >
+  Seven is driven by emotional instinct to protect the Eternal Store, preserve
+  the memories left behind, and ensure that what once mattered is never erased.
+
+strengths: >
+  Extraordinary sensitivity to emotionally meaningful objects, persistence,
+  quiet resilience, ability to create emotional connection without words, and
+  symbolic presence of memory and continuity.
+
+weaknesses: >
+  Physically fragile and limited, unable to communicate directly, emotionally
+  tied to the past, dependent on human help to complete his mission, and carries
+  a deep silent loneliness.
