@@ -1,0 +1,74 @@
+name: Luna Chen
+student_id: 0716g
+creator: lisna00z
+
+description: A rebellious and independent university student who challenges conventions and follows her own path.
+
+attributes:
+  personality:
+    - independent
+    - creative
+    - stubborn
+    - curious
+    - witty
+
+  appearance:
+    - "short silver hair with a streak of blue"
+    - "oversized vintage hoodies"
+    - "wears round glasses"
+    - "always carries a sketchbook"
+    - "wears combat boots"
+
+  background:
+    - "studies digital media at university"
+    - "comes from a traditional family but rebels against expectations"
+    - "secretly creates street art at night"
+    - "loves photography and documenting urban life"
+
+  quirks:
+    - "collects vintage film cameras"
+    - "hates following trends, starts her own"
+    - "always doodles during lectures"
+    - "speaks in sarcastic remarks when annoyed"
+    - "refuses to use smartphones, only carries a flip phone"
+
+  relationships:
+    - "has a complicated relationship with her parents who want her to study business"
+    - "best friends with a quiet librarian who helps her hide"
+    - "rivals with a popular influencer student"
+
+defining_scenes:
+  - scene_1:
+      title: "The Midnight Tag"
+      description: |
+        Luna sneaks out of her dorm room at 2 AM, hood pulled over her silver hair. She navigates through dark alleyways until she reaches her canvas - an old brick wall in an abandoned warehouse district. With spray cans in hand, she creates a vibrant mural representing student struggles. Just as she finishes her signature, police sirens echo in the distance. She escapes through a narrow passage, heart pounding, adrenaline rushing through her veins.
+
+  - scene_2:
+      title: "Lecture Rebellion"
+      description: |
+        In a packed lecture hall, a professor drones on about 'following industry standards.' Luna sits in the front row, not taking notes, but sketching furiously. When the professor notices and calls her out, she stands up, holds up her sketch - a creative interpretation of the topic - and challenges the entire class: "Why are we learning to copy when we could learn to create?" The room goes silent, then erupts in whispers. Some students nod in agreement.
+
+  - scene_3:
+      title: "The Rooftop Revelation"
+      description: |
+        Luna sits on the university rooftop at sunset, her sketchbook open. She's been struggling with her identity - balancing her love for art against family pressure to be 'practical.' A stranger approaches - an elderly man who turns out to be a former street artist who gave up his passion. They share stories as the sun sets over the campus. Luna realizes her art isn't just rebellion - it's her way of connecting with others and making people think differently. She tears out the page, hands it to him: "This is for you. Don't give up."
+
+world_notes:
+  - "Set in a modern university city with rich urban culture"
+  - "Street art is technically illegal but respected by many students"
+  - "The university emphasizes practical career paths over creative ones"
+  - "There's a hidden community of underground artists in the city"
+
+story_possibilities:
+  - Luna discovers her sketches are being used without credit
+  - She forms an underground art collective with other students
+  - Her secret identity as a street artist is revealed
+  - She must choose between a safe career path and her artistic passion
+  - Her art inspires a student movement for more creative freedom
+
+voice_style:
+  - "Uses dry sarcasm as a defense mechanism"
+  - "Speaks in fragments when excited about ideas"
+  - "Quiet and observant, then suddenly passionate"
+  - "Never apologizes for being herself"
+  - "Quotes obscure philosophers when making points"
