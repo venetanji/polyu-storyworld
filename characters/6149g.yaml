@@ -1,0 +1,84 @@
+name: Sir Doggegg
+
+age: "Timeless"
+
+role: Knight of the Perfect Curve, Bearer of the Oval Table
+
+personality: |
+  Always Calm: Nothing upsets him. He never gets mad or embarrassed.
+  Talks Little: He rarely speaks. When he does, he just states simple facts.
+  Likes: Round things, sitting in the sun, and gentle pats.
+  Hates: Sharp corners, stairs, and pointy shapes.
+  Magic: 
+   Turning things with sharp edges into smooth, round shapes.
+   Looking at him makes you forget why you were sad, angry, or stressed. You just feel calm and happy.
+
+appearance: |
+ Body Shape: 
+  Perfectly round ; no visible neck, ears and legs
+ Color: 
+  Snow-white soft warm coat (fluffy and soft-looking)
+ Face: 
+  Tiny face with big, round, shiny black eyes.
+  Small, black button nose.
+  A slight, polite and calm smile.
+ Tail: 
+ A small, round puff of fur on his lower back (like a bunny tail).
+
+Clothing:
+  Cape: A royal blue mantle with a high collar that wraps around his shoulders.
+  Accessory: A gold sunburst medal with a blue gem in the center, pinned to the left side of the cape.
+
+backstory: >
+  Long ago, in the misty golden fields of Roundavalon, there was a prophecy:
+  "When the land is troubled by angles, corners, and jagged thoughts,
+  there shall rise a knight more round than any other,
+  more smooth than polished marble,
+  more serene than a sun-warmed egg.
+  He shall bear no sword, for edges offend him.
+  Instead he shall roll forth,
+  and by his very roundness restore harmony."
+  The king declared him a knight on the spot,
+  and the Oval Table was built shortly after, because Sir Doggegg could not sit at a square one.
+
+scenes:
+  - scene_id: s01
+    title: "The Staircase That Shouldn't Exist"
+    ltx_prompt: |
+      Setting: A dusty village square at twilight, with stone stairs rising sharply. Rain falls softly.  
+      Visible action: Sir Doggegg walks past the stairs, his eyes half-lidded. A flicker of unease passes through him. He rolls gently toward the stairs. The stone stairs begin to melt, reshaping into a gentle slope.  
+      On-screen character: Smooth, round form, glowing softly. Eyes half-lidded, calm.  
+      Camera: Close-up on his face as he stares at the stairs, then slowly rolling toward them. The stairs melt into a soft slope.  
+      Audio: A low, humming tone begins — like a slow, deep breath. Then, a single note of a flute fades in.  
+  - scene_id: s02
+    title: "The Knight Who Wasn't Supposed to Be There"
+    ltx_prompt: |
+      Setting: A battlefield at twilight, with swords drawn and shouts echoing.  
+      Visible action: A young soldier stands at the edge, afraid. Sir Doggegg rolls beside him and offers a gentle pat.  
+      On-screen character: Smooth, round form, glowing softly. Eyes half-lidded, calm.  
+      Camera: Slow motion of the soldier stepping forward, Sir Doggegg beside him.  
+      Audio: A soft wind, then a gentle chime.  
+  - scene_id: s03
+    title: "The Sunbeam That Wasn't a Sunbeam"
+    ltx_prompt: |
+      Setting: A forest clearing at dawn — a broken tree stands with a jagged crack.  
+      Visible action: Sir Doggegg sees the tree and rolls gently over it. The broken piece molds into a smooth, rounded shape.  
+      On-screen character: Smooth, round form, glowing softly. Eyes half-lidded, calm.  
+      Camera: Time-lapse of the tree healing.  
+      Audio: A soft hum — like a bell.  
+  - scene_id: s04
+    title: "The Final Test – The Oval Table"
+    ltx_prompt: |
+      Setting: The heart of Roundavalon at dawn — a great gathering of knights, sages, and rulers. The Oval Table has a jagged crack.  
+      Visible action: A noble declares the table broken. Sir Doggegg rolls gently over the corner. The crack melts into a smooth, flowing oval. The crowd lowers their swords.  
+      On-screen character: Smooth, round form, glowing softly. Eyes half-lidded, calm.  
+      Camera: Time-lapse of the table transforming. A slow pan across the crowd as they slowly lower their weapons.  
+      Audio: A deep, soft hum — like a bell in a quiet room. Then, a single, resonant chime.  
+  - scene_id: s05
+    title: "The Summoning – A Fate-Style Holy Grail War"
+    ltx_prompt: |
+      Setting: A ruined castle at the edge of a stormy valley. Rain falls softly. The summoning circle glows in deep blue, then spreads into radiant rainbow light.  
+      Visible action: A cloaked summoner chants the full incantation. Then, Sir Doggegg appears and floats slowly toward her. The summoning circle melts into a smooth oval. A small, floating dandelion-like circle appears on the ground.  
+      On-screen character: Smooth, round form, glowing softly. Eyes half-lidded, calm. Floats gently.  
+      Camera: Start with a wide shot of the summoner chanting. Then, a slow pan to Sir Doggegg appearing and floating. Then, a time-lapse of the circle melting into a smooth oval. Final shot: The floating dandelion-like circle glows gently.  
+      Audio: The chant builds — full, ancient, with a slow rhythm. Then, a soft, warm trumpet sound — a single, clear note — echoes after Sir Doggegg says "Are you my master?"  
