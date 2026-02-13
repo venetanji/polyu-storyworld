@@ -1,0 +1,38 @@
+name: Johnny
+age: 28
+personality: stage maniac, lazy in private, fiercely loyal
+appearance: >
+	Silver-gray wolf-dog features crown a human frame built for spectacle, and a
+	polished mechanical left eye flickers beneath a black tactical hood. He moves
+	with stage-drill precision in matte armor, the only color coming from neon LED
+	accents running along his gear.
+backstory: >
+	Born beneath the smog domes of Kowloon Arcology, Johnny was raised by the pit
+	crews of an outlaw racing syndicate. The mechanics taught him to tune engines
+	and patch cybernetics, replacing his shattered left eye with a spare drone lens
+	after a crash he barely survived. Onstage he channels the roar of those tunnels
+	into feral performances that keep corporate sponsors wary and underground fans
+	obsessed. Offstage he naps anywhere he can drop his gear, saving his energy for
+	the few people he swore to protect.
+scenes:
+	- scene_id: s01
+		title: Night Ride
+		ltx_prompt: |
+			Neon lights streak through the tunnel as his motorcycle roars.
+			He leans forward, silver fur whipping in the wind, mechanical eye glowing icy blue.
+			Close-up: The speedometer needle trembles at maximum velocity.
+			Soundtrack: Electronic rock crescendos, engine growl drowning the wind.
+	- scene_id: s02
+		title: Afternoon Nap
+		ltx_prompt: |
+			Dappled sunlight filters through the grass where he sprawls lazily.
+			Close-up: Paw absently batting at dandelion fluff carried by the breeze.
+			Low-angle shot: Squinting eyes, ears twitching, tail thumping rhythmically.
+			Soundtrack: Birds chirp brightly, distant children's laughter echoes.
+	- scene_id: s03
+		title: Center Stage
+		ltx_prompt: |
+			Spotlight captures his howling vocals igniting the crowd.
+			Spinning shot: Mechanical eye scans the audience, claws gripping the mic stand, silver fur glinting.
+			Close-up: Sweat drips as he leaps, shredding his shirt mid-air.
+			Soundtrack: Guitar solo erupts, fan screams deafening.
