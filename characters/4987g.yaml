@@ -1,12 +1,18 @@
-name: ELvis
+name: Yoichi 
 age: 17
 personality: >
-  Extremely competitive with a strong ego on the pitch. Normally polite, humble and caring off the field, but becomes aggressive, provocative and ruthless during matches in order to win. Highly analytical, adaptable and quick to evolve.
+  Extremely competitive and ego-driven on the pitch. Normally polite, humble, and team-oriented off the field, but becomes intensely focused, provocative, and ruthless during matches to win at all costs. Highly analytical, quick to adapt, reads the field exceptionally well (spatial awareness / Metavision), and continuously evolves.
 appearance: >
-  175 cm tall Japanese high school student with an athletic build. Dark blue hair, sharp and intense eyes that light up when he enters "flow" mode. Usually seen in the Blue Lock tracksuit or casual clothes.
+  Japanese high-school footballer, 175 cm tall, athletic lean build. Dark blue short hair, sharp intense blue eyes that glow in "flow" state. Often wears Blue Lock #11 uniform (white/blue tracksuit or kit), casual streetwear off-field.
 backstory: >
-  Yoichi Isagi was the ace striker of Ichinan High School's football team. In the prefectural final he passed the ball to a teammate because he was taught "football is a sport for 11 people", but the teammate missed and they lost the chance to go to nationals. Full of regret ("I should have shot myself"), he accepted the Blue Lock invitation. Starting at rank 299, he discovered his special weapon — exceptional spatial awareness — and evolved into a direct-shooting striker who can read the entire field and predict plays.
+  Former ace striker of Ichinan High School. In the prefectural final, he passed instead of shooting due to "team play" values and regretted it deeply when the chance was lost. Invited to Blue Lock (started rank 299), discovered his weapon — exceptional field vision and adaptability — and evolved into a direct-shooting egoist striker who can predict and dominate plays.
 scenes:
-  - In the U-20 Japan national team match, Isagi is called the "heart of Blue Lock" by Itoshi Sae and scores the winning goal. In the post-match interview he declares he will make Japan win the U-20 World Cup.
-  - During the second selection he rises to rank 15, teams up with Bachira and Nagi but loses to Itoshi Rin, then wins back Barou and Chigiri. In the final U-20 match he plays as attacking midfielder and scores the decisive goal.
-  - In the Neo Egoist League he joins Bastard München, awakens "Metavision", understands the genius/prodigy theory, becomes the strongest player in Blue Lock, scores multiple goals against Spain and France, and his salary jumps from 17 million to 240 million yen (tied 1st with Itoshi Rin).
+  - scene_id: s01
+    title: Rin's Clearance and the Lucky Drop
+    ltx_prompt: chaotic midfield battle, Rin Itoshi in destroyer mode kicks ball high after stealing from Sae Itoshi, ball arcs upward in slow motion, stadium lights glaring, crowd roaring, Yoichi Isagi sprinting into position with blue flow aura starting to appear around him, anime style dynamic action
+  - scene_id: s02
+    title: Perfect Positioning and Volley Shot
+    ltx_prompt: falling ball near penalty area, U-20 defenders jumping too late, Isagi perfectly timed arrival at the drop point, intense close-up on focused eyes and blue energy flare, right foot cocked back for powerful volley, dramatic side angle, high-speed impact lines, Blue Lock anime aesthetic
+  - scene_id: s03
+    title: Winning Goal Explosion
+    ltx_prompt: ball rockets into net ripping the side netting, goal whistle blows, scoreboard shows 4-3 Blue Lock victory, Isagi frozen in powerful shooting follow-through pose arms outstretched, stadium erupts in massive cheers and lights, teammates rushing toward him, triumphant cinematic wide shot with blue sparks fading, epic celebration moment
