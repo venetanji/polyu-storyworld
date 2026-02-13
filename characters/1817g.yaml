@@ -1,0 +1,28 @@
+name: Number 33
+age: 26
+personality: INFP, Introverted, Quiet, Fear of the unknown
+appearance: Male, Medium-length hair, Thin build, 180.3cm, Yellow anti-radiation suit
+backstory: >
+  He was selected by the Federation to participate in an experiment, requiring daily exploration of an unknown dimension. He believes he volunteered to escape a mediocre life, but in reality, he is the 33rd clone test subject for the agency. If he dies in the other world, he is replaced by a new copy with implanted memories, though he is currently unaware of this truth.
+scenes:
+  - scene_id: s01
+    title: Reset and Awakening
+    ltx_prompt: |
+      Setting: Pitch black void. Seven bright surgical lights arranged in a hexagon pattern shining down intensely. High contrast, overexposed center.
+      Action: Number 33 (pale male, medium hair, wearing a white hospital gown) lies flat on his back. He gasps for air suddenly, chest heaving. He squints, raising a trembling hand to shield his eyes from the blinding light.
+      Camera: Extreme close-up (ECU) on his face, focusing on dilating pupils reflecting the lights.
+      Audio: Heavy, panicked breathing. Heartbeat thumping. A cold, distorted, unrecognizable voice from the dark asks: "Calibration check."
+  - scene_id: s02
+    title: Deja Vu Etching
+    ltx_prompt: |
+      Setting: Stark white, cramped locker room. Cold fluorescent lighting. Transitioning from the previous darkness.
+      Action: Quick cut. Number 33 is now standing, zipping up a heavy, bulky yellow anti-radiation suit. He lifts the heavy helmet. Close up on the visor interior as he prepares to put it on: a small, hand-scratched doodle (a crude smiley face) is visible on the inner metal rim. He pauses, eyes widening in confusion. He shakes his head and locks the helmet into place.
+      Camera: POV shot from his perspective looking at the helmet interior, then a medium shot of him fully suited in the yellow gear.
+      Audio: Heavy zipper sound. The mechanical "hiss" and "click" of the helmet sealing. Muffled silence immediately follows the seal.
+  - scene_id: s03
+    title: Iteration Truth
+    ltx_prompt: |
+      Setting: Infinite black void. The floor is covered in a thin layer of water, acting as a perfect dark mirror. A single spotlight follows Number 33. In the distance, a lonely beige 1980s CRT monitor sits on a pedestal, glowing green.
+      Action: Number 33 walks slowly through the water, creating ripples. He approaches the terminal. He types his name -> screen flashes "ERROR". He hesitates, then types "33". The screen text changes to harsh green block letters: "ACCESS GRANTED: ITERATION 33".
+      Camera: Wide tracking shot from the side showing his isolation. Then over-the-shoulder (OTS) looking at the green screen glow reflecting on his yellow visor.
+      Audio: Complete dead silence. Wet splashes of footsteps. Loud, clicky mechanical keyboard sounds. Harsh 8-bit buzzer on error.
