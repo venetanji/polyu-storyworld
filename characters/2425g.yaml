@@ -1,36 +1,50 @@
-name: "Nick"
+---
+name: Nick
 age: 23
-gender: "Male"
-occupation: "Unemployed / Aspiring Pro Gamer (Self-proclaimed)"
-
+gender: Male
+occupation: Unemployed / Aspiring Pro Gamer (Self-proclaimed)
 appearance:
-  height: "175cm"
-  build: "Slim, slightly slouched due to long gaming sessions"
-  hair: "Black, messy, medium length"
+  height: 175cm
+  build: Slim, slightly slouched due to long gaming sessions
+  hair: Black, messy, medium length
   features:
-    - "Dark circles under eyes (chronic sleep deprivation)"
-    - "Wears glasses"
-    - "Constantly looks sleepy"
-  clothing: "Casual T-shirt and jeans"
-
+    - Dark circles under eyes (chronic sleep deprivation)
+    - Wears glasses
+    - Constantly looks sleepy
+  clothing: Casual T-shirt and jeans
 personality:
-  - "Lazy and easy-going"
-  - "Resents restraint and authority"
-  - "Man-child tendencies"
-  - "Slightly vain but avoids pressure"
-
+  - Lazy and easy-going
+  - Resents restraint and authority
+  - Man-child tendencies
+  - Slightly vain but avoids pressure
 hobbies:
-  - "Hardcore gaming"
-  - "Staying up late"
-lifestyle: "Recently graduated and struggling with job hunting; finds refuge in virtual worlds."
-
+  - Playing games
+  - Staying up late
+lifestyle: Recently graduated and struggling with job hunting; finds refuge in
+  virtual worlds.
 relationships:
-  - partner: "Mia"
-    status: "Girlfriend / Roommate"
-    dynamic: "Strained due to Nick's gaming addiction; frequent arguments."
-
+  - partner: Mia
+    status: Girlfriend / Roommate
+    dynamic: Strained due to Nick's gaming addiction; frequent arguments.
 story_hook: >
-  Nick has noticed a bizarre phenomenon: whenever Mia starts an argument with him, 
-  she suddenly vanishes into thin air, only to reappear the next day. 
-  While eerie, Nick has grown to enjoy the peace and quiet it brings, 
-  choosing to ignore the supernatural implications in favor of more gaming time.
+  Nick has noticed a bizarre phenomenon: whenever Mia starts an
+  argument with him,  she suddenly vanishes into thin air, only to reappear the
+  next day.  While eerie, Nick has grown to enjoy the peace and quiet it
+  brings,  choosing to ignore the supernatural implications in favor of more
+  gaming time.
+scenes:
+  scene1: >
+    At home. Nick is gaming through the night, his face illuminated  only by
+    the screen. He is so deeply immersed that he fails to  notice Mia standing
+    behind him, watching with a look of pure  disappointment before silently
+    closing the door.
+  scene2: >
+    In a restaurant. Mia is talking excitedly about her day, but  Nick’s
+    eyes are glued to a mobile game under the table. Frustrated  by his lack of
+    attention, Mia suddenly slams her hand on the  table, startling the nearby
+    diners.
+  scene3: >
+    At home. Nick is gaming again. Mia rushes toward him, her face  flushed
+    with anger, ready to start an argument. But the next  second, she vanishes
+    into thin air mid-sentence. Nick freezes,  his eyes widening in shock as he
+    stares at the empty space  where she just stood.

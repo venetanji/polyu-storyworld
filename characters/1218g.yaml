@@ -1,0 +1,31 @@
+name: Max
+age: unknown
+personality: mysterious, perseverance, charisma, perfectionism, lazy
+appearance: a highly detailed sci-fi cyberpunk robotic bearded dragon, tall humanoid figure, orange scaly textured skin with bearded dragon features like spiky beard area and subtle scales, thick short fluffy yellowish white beard, wearing a bright orange futuristic insect-style helmet mask covering the head with large shiny black compound eyes, prominent short pointed orange antennae, white oversized hoodie sweatshirt with loose sleeves and hood up, orange robotic mechanical gloves with detailed joints, dark gray pants tucked in, massive bulky futuristic golden-orange metallic cybernetic leg armor with glowing accents, reinforced knee pads, intricate mechanical pistons, joints and plating, shiny matching golden-orange robotic boots
+backstory: >
+  Max is an orange robotic bearded dragon created in a lab as a test subject. After a mysterious accident destroyed the facility, Max escaped into the city — alone figure with no memory of their origins. During their wanderings, they discovered an old violin hidden in a forgotten music archive. To their shock, the violin responds to their touch — and with it, a hidden gift: the ability to create music that makes people feel free, relaxed, and emotionally awakened. Now, Max performs secret concerts in abandoned buildings and rooftops, using the violin to connect with strangers and awaken something deep within them. Though Max remains mysterious, their music speaks louder than words.
+scenes:
+  - scene_id: s01
+    title: Discovery in the Shadows
+    ltx_prompt: |
+      Setting: The shadows of an abandoned warehouse at night, rain-slicked metal walls, broken windows, and flickering emergency lights. The air is cold and still.  
+      Visible action: Max stumbles through the dark, scanning the space with their large black compound eyes. They find a rusted violin half-buried in dust, its strings frayed. As Max touches it, the robotic bearded dragon form emits a soft hum — the violin vibrates slightly, and the golden-orange armor glows faintly.  
+      On-screen character: Max stands tall, one hand brushing the violin, the other holding their helmet mask. Their thick yellowish white beard flickers slightly. The orange antennae twitch.  
+      Camera: Slow push-in from behind, focusing on the violin and Max’s hand. Then a tight shot of the violin vibrating.  
+      Audio: Distant rain, wind howling; a soft mechanical hum from Max’s form; a faint, low resonance from the violin.  
+  - scene_id: s02
+    title: First Melodies in the Forest
+    ltx_prompt: |
+      Setting: A quiet, overgrown forest at dawn. Sunlight filters through dense trees. The air is still and alive with birdsong.  
+      Visible action: Max brings the violin into a clearing and sits on a fallen log. They begin to play — the first notes are hesitant, then grow into a soft, flowing melody. The robotic form’s horns pulse gently in rhythm. The forest seems to breathe with the music.  
+      On-screen character: Max sits with their back slightly curved, head tilted, one hand resting on the violin. The white hoodie flaps slightly in the breeze. The orange antennae sway gently.  
+      Camera: Wide shot of Max in the clearing, then slow-motion close-up of the violin bow moving.  
+      Audio: Birdsong fades into a soft, emotional violin melody; the music grows in warmth and depth. A subtle electronic undertone pulses beneath.  
+  - scene_id: s03
+    title: Neon Sky Concert
+    ltx_prompt: |
+      Setting: A rooftop in a neon-lit city district at night. The sky glows with holographic signs, red and blue lights flash in the distance. The audience is small, gathered under a canopy of wires and banners.  
+      Visible action: Max stands center stage, violin raised, facing the crowd. They begin to play a powerful, emotional piece — the music fills the air. As it plays, people close their eyes, relax, and smile. The robotic form’s armor glows in time with the music.  
+      On-screen character: Max stands tall, face calm, eyes closed slightly. The golden-orange armor pulses with warm light. The yellowish white beard glows softly.  
+      Camera: Wide overhead shot of the rooftop and audience, then a tight, dynamic tracking shot as Max plays.  
+      Audio: A deep, resonant violin piece begins — emotional, flowing, and triumphant. Subtle electronic pulses beneath match the rhythm. A soft hum rises from the audience as they feel the music.  
