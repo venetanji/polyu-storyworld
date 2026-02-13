@@ -1,0 +1,31 @@
+name: Clove
+age: 18
+personality: gentle, observant, emotionally reserved, quietly resilient, deeply sentimental
+appearance: golden curls, chubby hands, worn woolen shawl, bright eyes, soft smile, carries a polaroid camera
+backstory: >
+  Clove’s life is a series of goodbyes — starting with her mother’s death at age 8, then losing Lila at 18, and now holding the memories of everyone who’s ever been gone. She’s learned to keep them alive through photos, songs, and quiet moments. She’s the keeper of memories, the only one who remembers, and the only one who doesn’t let go.
+scenes:
+  - scene_id: s01
+    title: "The First Goodbye (1920s, a Small Cottage)"
+    ltx_prompt: |
+      Clove, 8 years old, sits by a flickering fire in a small cottage, her messy golden curls framing her face. She clutches her mother’s worn woolen shawl, her chubby hands trembling slightly. Her mother, pale and still, strokes her hair with one hand, whispering, "I’ll miss you, my little joy," and closes her eyes. Clove smiles, bright and innocent, thinking her mother is just sleeping — until the fire dies down, and the room turns cold. She waits three days, humming the lullaby her mother taught her, before realizing: this is the first time someone will never wake up for her. Her smile fades, and a single tear rolls down her childish cheek — she doesn’t yet know this is just the start of endless goodbyes.
+      Camera: Medium close-up — Clove’s face, firelight dancing across her cheeks, her eyes wide with wonder and fear.
+      Audio: Ambient — crackling fire, distant wind, soft lullaby, then silence as the fire dies.
+      Whisper — "I’ll miss you, my little joy." (from mother, soft and fading)
+      TODO: Add specific lullaby tune or sound effect.
+  - scene_id: s02
+    title: "A Fleeting Summer (1980s, a Beach Boardwalk)"
+    ltx_prompt: |
+      Clove, 18, in a colorful swimsuit, laughs as she chases her friend Lila along the boardwalk. They share cotton candy, take polaroids, and promise to "be friends forever." Clove’s eyes crinkle with joy, as lively as any other teen — but her fingers linger a little too long on Lila’s hand, memorizing the sound of Lila’s laugh like it’s a song. That night, she sits alone on the beach, holding the polaroid (Lila grinning, ice cream on her chin) and whispers to the waves: "Forever is only a minute for me." She knows Lila will grow old, have a family, forget — but she will hold this summer, this laugh, this moment, forever. It’s a gift, and a curse, wrapped in cotton candy and salt air.
+      Camera: Wide shot — boardwalk bustling with tourists, Clove and Lila laughing, then close-up — Clove’s hand holding the polaroid, eyes closed, smiling softly.
+      Audio: Ambient — laughter, distant music, ocean waves, then soft whisper.
+      Whisper — "Forever is only a minute for me." (Clove, to the waves)
+      TODO: Add specific sound of cotton candy or ocean waves.
+  - scene_id: s03
+    title: "The Keeper of Memories (2020s, a Quiet Café)"
+    ltx_prompt: |
+      Clove, still 18, sits by a window in a quiet café, sipping a latte. Across the street, a young girl — Lila’s granddaughter — walks by, carrying the same kind of polaroid camera Lila had. Clove’s gaze softens; she pulls an old, tattered photo album from her bag — filled with faces: her mother, Lila, friends from the 1950s, the 1990s, all gone. She touches Lila’s photo gently, a faint, sad smile on her lips. A barista asks if she’s okay, and she lights up instantly, saying "Just reminiscing — good times." No one sees the tears in her eyes, hidden by a cheerful grin. She’s the keeper of all the "good times," the only one who remembers. Lonely, but still gentle — she’s learned to carry the weight of a thousand lifetimes, one memory at a time.
+      Camera: Medium shot — Clove at the café window, hand on photo album, barista approaching, then close-up — her eyes, soft, smiling, but with a faint tear.
+      Audio: Ambient — café chatter, clinking cups, soft jazz music, then quiet whisper.
+      Whisper — "Just reminiscing — good times." (Clove, to barista)
+      TODO: Add specific café ambiance or music cue.
