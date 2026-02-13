@@ -1,0 +1,19 @@
+name: The Everyman
+age: unknown
+personality: observant, adaptive, empathetic, silent, data-driven, socially aware
+appearance: neutral facial expression, average features, wears simple clothing, subtly shifts appearance to blend in
+backstory: >
+  The Everyman is a silent observer, always watching and learning. They possess a unique ability to manipulate their facial characteristics using advanced generative technology, allowing them to adopt the appearance of anyone around them. They collect data on human behavior and emotions, using it to understand social dynamics and predict outcomes. Though they remain emotionally detached, their deep empathy enables them to connect with people on a personal level. They move through the world unnoticed, becoming a part of the environment rather than standing apart from it. There is no known origin for The Everyman—only a sense of presence that lingers in moments of quiet reflection.
+scenes:
+  - scene_id: s01
+    title: The Face of the People
+    ltx_prompt: |
+      A quiet, rainy evening in a small town library. The Everyman sits in a corner, wearing 1900s-style conservative clothing, neutral expression, purple holographic head glowing faintly. They scan multiple faces — a child reading, a man in a hat, a woman with a book — and in a split second, a composite generic human face forms in their mind. This face appears on their own face as they speak to a young girl. The camera is a wide shot of the library, then a close-up on the character’s face as the composite face emerges. Ambient sound: rain pattering on windows, soft piano music, a soft hum when the composite face appears. The character speaks calmly to the girl, using a neutral expression.
+  - scene_id: s02
+    title: The Neighbor’s Secret
+    ltx_prompt: |
+      A small quiet town street at dusk. The Everyman walks past a neighbor’s house, wearing a high-collared coat and gloves. A woman in a blue dress is arguing with her husband in the garden. The character’s facial features shift slightly to mimic the woman’s expression — a subtle, calm smile. The camera is a medium shot, following the character as they walk past, showing their face mirroring the woman’s. Sound: distant laughter, a brief pause in conversation, then the woman says, “I know you’re not who you say you are.” The character remains still, eyes calm, analyzing. This moment reveals their ability to blend in and observe without detection. 
+  - scene_id: s03
+    title: The Unseen Meeting
+    ltx_prompt: |
+      A dimly lit back room in a local bookstore at night. The Everyman sits across from a man in a tailored suit, both wearing identical 1900s-style clothing. The man speaks quietly about a plan to influence public opinion through media. The character’s face subtly changes — their eyes turn a soft green, and their expression shifts to one of calm understanding. The camera is a close-up on the man’s face, then slowly pans to the character’s face. Sound: soft ticking of a clock, a low hum, and a single phrase: “We’ll use data to shape belief.” The character listens silently, then slowly nods. This moment reveals their role as a data collector, ready to pass information to a hidden organization.
