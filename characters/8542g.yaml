@@ -1,0 +1,23 @@
+name: Licht
+age: unknown
+personality: quiet, polite, religious, serious
+appearance: baby seal, small and delicate body, slick black and silver fur, carries a sword strapped to their back, wears a fish bag on their side, one eye slightly open, paws slightly clumsy
+backstory: >
+  Licht was living in a big seal family, but one day they got a holy sword under the ocean, and then left their family to find a way to become a seal paladin to protect the goddess. There are a lot of baby seals but Licht is the cutest one. Seals are living in a cozy place where baby seals just eating fish all day and sleep, then every seals are confused about Licht's decision of becoming a paladin, but they all cheered them up and trust they can do this.
+scenes:
+  - scene_id: s01
+    title: "The First Step on Ice"
+    ltx_prompt: |
+      Setting: A frozen ridge known as Adelie Penguin Land at dawn, where the ice is thin and cracks underfoot. The air is cold, still, and carries a faint scent of salt and fish.  
+      Visible action: Licht slides forward on the ice, one paw at a time, the sword strapped to their back and a fish bag on their side. As they move, a pair of penguins appear at the edge—quick, sharp, and ready to snatch fish from baby seals. One penguin snaps its beak shut as a seal drops a fish. Licht freezes—eyes wide, one paw still on the ice.  
+      On-screen character description: Licht is a baby seal with slick black and silver fur, one eye slightly open, paws clumsy but steady. Their body language is still, alert, like a statue caught in thought.  
+      Camera: Handheld, slow push-in as Licht steps forward, then a sudden shake as the penguin appears. The shot lingers on Licht’s face, then pulls back to show the ridge and the penguins in the distance.  
+      Audio: A deep, rhythmic heartbeat pulses beneath the ice—steady, growing stronger. As the penguins appear, a sharp *clack* of penguin feet echoes. Then silence. A single, soft breath from the wind.  
+  - scene_id: s02
+    title: "The Mirror of the Ice"
+    ltx_prompt: |
+      Setting: A frozen ridge at twilight, where the ice reflects the sky like a mirror. The air is still, quiet, and carries a soft breeze.  
+      Visible action: Licht stands at the edge of the ice, facing a large mirror-like pool. They place a small fish in the water and watch it vanish—then place a smooth stone. The stone sinks slowly, and the surface ripples gently.  
+      On-screen character description: Licht is a baby seal with slick black and silver fur, one eye slightly open, paws slightly clumsy. They stand still, eyes focused, as if listening to the ice itself.  
+      Camera: Static shot of the mirror-like ice, then a slow tracking shot as Licht moves toward the pool. The camera lingers on the stone as it sinks.  
+      Audio: Wind chimes in the distance. A soft, echoing *plink* as the stone sinks. Then silence. A faint, resonant hum from beneath the ice. 
