@@ -1,0 +1,38 @@
+name: Enos
+age: 24
+personality: INFP, Slow to react, Overly responsible, Anxious, Kind-hearted, Airheaded
+appearance: Male, Wears thick round glasses, Short hair with slightly overgrown and messy bangs, Slim build, 153cm, Worn mage robe (with many pockets)
+backstory: >
+  Enos was born into an ordinary family, but showed a small talent for spellcasting and was therefore sent to 
+  study in a mage tower when his aptitude was discovered. His training focused mainly on theory and support 
+  magic rather than combat spells. His graduation thesis is supposed to be about monsters, but he has already 
+  delayed his graduation for two years, and if he does not finish soon, he will no longer be able to afford the tuition. 
+  Because of this, he joined his current dungeon exploration party. Due to his slow reactions and habit of overthinking, 
+  he often ends up being a step too late at critical moments, causing a series of small disasters. However, 
+  he always stays behind to clean up the mess, heal his teammates, and take responsibility. Even after repeated failures,
+  he never allows himself to abandon anyone in the dungeon.
+
+scenes:
+  - scene_id: s01
+    title: The Late Spell
+    ltx_prompt: |
+      Setting: A narrow stone corridor inside the dungeon. Torchlight flickers, the walls are damp, and the sound of dripping water echoes in the distance.
+      Action: The party is attacked by a small monster. While the others react immediately, Enos is still frantically flipping through his spellbook. He finally looks up, eyes widening behind his thick glasses, and hurriedly raises his staff to cast a shield spell—only to find that the monster has already been knocked away by a teammate.
+      Camera: Medium shot emphasizing his delayed reaction, then cut to a close-up focusing on his embarrassed and frustrated expression behind fogged-up lenses.
+      Audio: Rapid page-flipping sounds, hurried breathing, a teammate shouting "Too late!", followed by an awkward silence.
+
+  - scene_id: s02
+    title: Responsibility First
+    ltx_prompt: |
+      Setting: A temporary campsite inside the dungeon. Bedrolls and cooking tools are scattered around, and a faint magical light floats in the air.
+      Action: One teammate’s equipment is damaged while the others are resting. Enos kneels on the ground, carefully repairing it with simple restoration magic. His hands tremble slightly from exhaustion, but he keeps going, adjusting his glasses and quietly apologizing for his earlier mistakes.
+      Camera: Over-the-shoulder shot showing his softly glowing hands, then a close-up on his tired but serious eyes.
+      Audio: A faint hum of magic, distant dungeon ambience, and his quiet murmured apologies.
+
+  - scene_id: s03
+    title: Still Standing
+    ltx_prompt: |
+      Setting: A wider dungeon chamber after a battle. Broken stones are scattered around, the defeated monster lies in the background, and dust slowly settles.
+      Action: The team is injured and exhausted. Enos stands in the center, casting healing magic on everyone one by one. His legs are shaking slightly and he is clearly still afraid, but he forces himself to stay focused. After finishing the last spell, he almost collapses, barely managing to support himself with his staff.
+      Camera: A wide shot showing the whole team, then slowly pushing in to a close-up of his face—his glasses are cracked, his expression is tired, but there is a look of relief.
+      Audio: The low sound of healing magic, heavy breathing, and the echo of the dungeon returning to silence.
