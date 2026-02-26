@@ -1,0 +1,31 @@
+name: Aquabyte-98
+age: 2
+personality: Curious, deeply nostalgic, gentle, easily distracted by shiny objects, fiercely protective of its internal miniature ecosystem.
+appearance: A bipedal robotic figure with a pearlescent white casing. Its head is a retro CRT monitor featuring a side floppy disk slot, displaying an expressive, slightly glitch-art-style digital face. Its torso and massive, flowing fish tail are constructed from highly durable transparent glass, filled with glowing liquid, vibrant coral reefs, and swimming "bio-digital" marine life. The exterior is decorated with star decals, faded warning labels, and a metal dorsal fin on its back.
+backstory: >
+  Aquabyte-98's hardware was manufactured in 1999, but it considers its true "age" to be only two years, dating from the power surge that rebooted its core system. During that frantic era of the technological explosion, humanity vainly attempted to use code and machinery to simulate and completely master the power of nature. This robot was the experimental prototype for an ambitious "Digital Ocean" project. However, with the burst of the dot-com bubble, the tech company went bankrupt, and the prototype was abandoned and locked in a flooded basement. Two years ago, a localized power surge unexpectedly rebooted its core system. During the long years of dormancy, the experimental bio-digital algae and mechanical fish inside its liquid cooling tanks had miraculously evolved into a self-sustaining, closed-loop ecosystem. Now awake in an unrecognizable world, Aquabyte-98 wanders through abandoned, waterlogged urban ruins. It acts as a walking time capsule, gently guarding the miniature ocean housed within its transparent body.
+scenes:
+  - scene_id: s01
+    title: System Reboot
+    ltx_prompt: |
+      Setting: A dark, damp, abandoned laboratory. Water drips steadily from a concrete ceiling. The room is heavily shadowed.
+      Action: The robot initially stands powered down and motionless. Suddenly, a loud mechanical whirring sound echoes. The CRT monitor head flickers to life, emitting a harsh, bright cyan glow that instantly illuminates the dark room. A floppy disk drive makes a loud "clunking" read sound. A simple, pixelated loading bar appears on the screen, followed by a minimalist digital face (two dots and a line) that blinks with a confused expression.
+      Character: Aquabyte-98 — pearlescent white robot, CRT monitor head, transparent belly.
+      Camera: Extreme close-up (ECU) focusing on the CRT monitor face. The camera shakes slightly as the power surges.
+      Audio: Heavy mechanical whirring, loud retro floppy disk reading sounds, high-pitched CRT whine, and echoing water drips.
+  - scene_id: s02
+    title: The Living Aquarium
+    ltx_prompt: |
+      Setting: A sunlit, flooded 2000s-style shopping mall. Dusty shafts of light pierce through a broken glass ceiling, hitting knee-deep clear water.
+      Action: Aquabyte-98 wades slowly through the water. As it moves, the liquid inside its massive transparent tail sloshes back and forth. Tiny, glowing blue digital dolphins and orange digital crabs swim actively inside its glass belly and tail, reacting dynamically to the robot's steps. The robot pauses, looks down at a floating piece of retro plastic debris, and gently pokes it with a metallic, claw-like finger.
+      Character: Aquabyte-98 — strong Y2K retro-futurism aesthetic, pearlescent casing reflecting sunlight, transparent water-filled tail and torso containing a vibrant miniature coral reef.
+      Camera: Medium tracking shot from the side. The focus highlights the strong parallax effect created by the fish swimming inside the transparent tail as the robot moves forward.
+      Audio: Gentle splashing of water, the soft hum of internal cooling fans, and the distant echo of wind blowing through the ruins.
+  - scene_id: s03
+    title: Bio-Digital Harmony
+    ltx_prompt: |
+      Setting: A pitch-black environment, completely isolating the subject.
+      Action: Aquabyte-98 stands perfectly still. Its external pearlescent casing reflects very little light in the darkness, but its internal transparent chambers emit a bright, mesmerizing bioluminescence. The digital face on the CRT screen has entered sleep mode (displaying pixelated "zZz" text). Inside its chest cavity, a mechanical starfish slowly crawls across a neon pink coral reef. Tiny bubbles continuously rise from the bottom of its glass torso up to its neck.
+      Character: Aquabyte-98 — bipedal fish-robot, sleeping digital expression, glowing aquatic internal ecosystem.
+      Camera: A slow, continuous 360-degree orbit around the character. The shot emphasizes the refractive properties of the glass material and the volumetric lighting emitting from the internal water tanks.
+      Audio: Rhythmic and soothing liquid bubbling sounds, a low-frequency ambient synth drone, and the extremely faint clicking of the mechanical starfish moving.
