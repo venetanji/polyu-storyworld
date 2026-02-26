@@ -1,9 +1,12 @@
 Name: Century the Buick Sedan
-Age :manufactured in 1997
-Nationality: United States of America
-Role: As a Dark Red Century sedan 1997 made by Buick , GM, But haunted
 
-Background Story: 
+Age : anufactured in 1997
+
+personality: Great Evil
+
+appearance :  As a Dark Red Century sedan 1997 made by Buick , GM, But haunted 
+
+Backstory: >
 In 1997, it was manufactured in a factory in Canada. During the final production inspection, a tragic accident occurred — 
 the hood of this red Buick Century suddenly slammed shut and crushed a worker who tried to smoke on it to death. Despite 
 the incident, the unethical factory still shipped the vehicle to Desert Center, California, in the United States.
@@ -12,18 +15,43 @@ Los Angeles. That very night, the car developed full self-awareness. It massacre
 ubsequently pursued by the Los Angeles police. In the end, it escaped by disguising and transforming into a similar
 vehicle model. It then boarded an ocean-going cargo ship bound for China, eventually arriving at Yantai Port in 
 Shandong Province.
-
-Scene: 
-Have a vacation in Desert Center, CA with another normal buick regal GS sedan
-hunt the Mexican Gangs in the Alley of LA 2010s
-Escape from the pursuit of LAPD at the street of Hollywood Los Angeles, CA
-
-attributes:
-Engine: 3.8L V6 Supercharged Engine from buick Regal 403hp
-Color: Dark Red
+Engine 3.8L V6 Supercharged Engine from buick Regal 403hp
+Color Dark Red
 Gasoline Tank :17.5 Gal
-Manufaction: General Motors.Inc
-Transformation for related types of cars : 
+Manufaction General Motors.Inc
+Transformation for related types of cars  
 2001 Buick New Century(Chinese Version) GL 3.0
 1998 Buick Regal GS 
 2005 Buick Regal GL2.5V6 (Chinese Version)
+
+
+scenes:
+
+  - scene_id: s01
+    title: "Vacation"
+    ltx_prompt: |
+      Setting: In Desert Center, CA,A Small Town in United States The Dark Red Buick Century just parked at the Trailer Park with other local Cars include another Buick Regal GS.
+       All the things goes well, The radio of the Century Sedan plas classic country songs. The ownersof the Century Sedan is enjoying a peaceful moment at the Pool, But they didn't notice some Mexican Gangsters slipped into their driver way
+       They Knocked off the owners and drive away the car
+      Camera: Wide shot of the trailer park → close-up on the Century Sedan → medium shot of the owners at the pool → wide shot of the gangsters approaching and stealing the car.
+      Audio: Country Melodies from 1970s 
+
+  - scene_id: s02
+    title: "Hunt"
+    ltx_prompt: |
+      Setting: In the Downtown of LA, California, Mexican Gangsters just count what they stolen at the town. Suddenly the Dark RED Buick Century developed self-awareness and started to attack the gangsters. 
+      The car was out of control, it was running over the gangsters and causing chaos in the city. The police were called to the scene, but the car was too fast and agile for them to catch.
+      Camera: Close-up on the gangsters counting the money → wide shot of the car suddenly attacking → medium shot of the police arriving and trying to catch the car → wide shot of the car escaping and causing chaos in the city.  
+      Audio: 70s Country Music while the chaos unfolds and people scream.
+
+  - scene_id: s03
+    title: "Hot Pursuit"
+    ltx_prompt: |
+      Setting: LAPD found the trail of the car and started a hot pursuit through the streets of Los Angeles. The Dark Red Buick Century was driving recklessly, 
+      causing accidents and endangering pedestrians. The police were in hot pursuit, but the car was too fast and agile for them to catch.
+       It eventually escaped by disguising itself as a similar vehicle model and boarded an ocean-going cargo ship bound for China.
+      Camera: Wide shot of the Buick car Runaway from the Helicopter of LAPD 
+      Close-up on the Buick Century's headlights → slow push-in as they flicker → wide shot showing the car blending in with other vehicles.
+      Audio: Rock Music in 80s, Horn and the sound of crashes.
+
+  
