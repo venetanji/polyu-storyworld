@@ -1,1 +1,56 @@
+name: Captain 
+age: 3 years old (Feline years)
+personality: Observant, responsible, stoic but deeply affectionate. He views himself as the spiritual guardian of the household.
+appearance: >
+  A classic bicolor "Cow Cat" (black and white). He has an asymmetrical black mask over his eyes and a distinctive black ink-spot on his nose. 
+  He wears a red collar with a tiny silver bell. His most magical feature is his long tail with a white tip, which glows faintly when he performs his "cleansing."
+backstory: >
+  Patch believes his human—a young programmer—is incapable of self-care. In Patch's eyes, the human spends all day staring at a "glowing rectangle" that drains their life force. 
+  Patch has a secret gift: he can see the "Blue Mists" of exhaustion and negativity that drift off humans. Using his tail as a conduit for warmth, 
+  he transforms these cold mists into "Golden Embers" of comfort, ensuring his human stays "recharged."
 
+scenes:
+  - scene_id: s01
+    title: The Morning Nudge
+    ltx_prompt: |
+      Setting: A sunlit bedroom, morning light filtering through curtains.
+      Visible action: Patch the bicolor cat uses his paw to gently tap the human's closed eyelids. When there's no response, he boops the human's nose with his wet black-spotted nose.
+      On-screen character description: Patch looks serious, his whiskers twitching, red collar bell visible.
+      Camera: Close-up on the cat's paw, then a pull-back to show Patch sitting on the human's chest.
+      Audio: Soft purring and a rhythmic silver bell chime.
+
+  - scene_id: s02
+    title: The Hydration Guardian
+    ltx_prompt: |
+      Setting: A cluttered desk with a glowing computer monitor.
+      Visible action: As the human reaches for a cold, empty coffee mug, Patch jumps on the desk and firmly places a white paw over the human's hand, pushing a glass of fresh water toward them instead.
+      On-screen character description: Patch tilts his head, eyes wide and judgmental yet caring.
+      Camera: Medium shot of the cat-human interaction on the desk.
+      Audio: The sound of a glass sliding on wood, followed by a soft, short "Meow."
+
+  - scene_id: s03
+    title: Banishing the Blue Mist
+    ltx_prompt: |
+      Setting: A dimly lit room at night, the human is hunched over the keyboard.
+      Visible action: Wispy, silk-like Blue Shadows (representing fatigue) drift from the human's shoulders. Patch leaps onto the back of the chair. He swishes his white-tipped tail through the blue shadows like a magic wand.
+      On-screen character description: The blue mist shatters into particles upon contact with Patch's tail. Patch's eyes glow with a soft amber light.
+      Camera: Macro shot of the tail tip passing through the blue mist, showing the color transition from blue to gold.
+      Audio: A low-frequency hum, like a crystalline vibration or magical chime.
+
+  - scene_id: s04
+    title: The Golden Embrace
+    ltx_prompt: |
+      Setting: Same as above, the atmosphere shifts.
+      Visible action: The shattered blue particles transform into warm, glowing Golden Embers. These embers coalesce into two large, ethereal golden hands that gently hug the human. The human's posture relaxes instantly.
+      On-screen character description: Patch nuzzles the human's cheek, his fur illuminated by the golden glow.
+      Camera: Wide shot showing the room filling with warm, golden light.
+      Audio: Loud, rhythmic, comforting purring (ASMR quality).
+
+  - scene_id: s05
+    title: Watchman's Rest
+    ltx_prompt: |
+      Setting: Late night, the human is peacefully asleep on the sofa under a blanket.
+      Visible action: Patch does one final patrol of the room, then curls up into a black-and-white ball at the human's feet.
+      On-screen character description: Patch yawns, his eyes closing as he rests his chin on his paws.
+      Camera: A slow zoom-out (crane shot) showing the quiet, protected home.
+      Audio: Distant crickets and the sound of deep, calm breathing.
