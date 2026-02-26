@@ -1,0 +1,46 @@
+name: Kenwood
+age: 25
+personality: Efficient, organized, impatient, firm, adaptable
+appearance: Short hair, 173 cm tall, East Asian male, large expressive eyes, handsome
+backstory: Kenwood once fronted a pop band, but after his bandmates left, he lost passion for music. One day, he was pulled into an alternate dimension — and emerged as a magician who weaves music into his illusions. Now, he uses rhythm and melody to manipulate reality, seeking to understand why he was chosen — and how to return home.
+scenes:
+  - scene_id: s01
+    title: Kenwood meets a former bandmate who’s now a rogue magician — they’re forced to team up to stop a dimensional rift.
+    ltx_prompt: |
+      Setting: The floating city of “Until Dawn,” twilight. 
+      Visible action: Kenwood and his former bandmate argue, then reluctantly collaborate — Kenwood’s bass guitar glows with a pulsing light as he plays metal music to seal a crack in reality. 
+      On-screen character: Kenwood, handsome, East Asian male, short hair, large expressive eyes, wearing a black leather jacket, posture tense as he plays. 
+      Camera: Wide shot of the rift, then tight on their faces as they play together. 
+      Audio: A discordant melody that resolves into harmony — with a heavy metal riff and a sudden crash of broken instruments.
+  - scene_id: s02
+    title: Kenwood must perform a high-stakes illusion for a powerful ruler — but the magic backfires, revealing his true nature.
+    ltx_prompt: |
+      Setting: A throne room of floating crystal, night. 
+      Visible action: Kenwood plays a haunting melody — but the music warps reality, revealing he’s not human. His skin glows as the magic fails. 
+      On-screen character: Kenwood, handsome, East Asian male, short hair, large expressive eyes, wearing a dark robe, eyes wide with shock as the magic fails. 
+      Camera: Slow zoom into his eyes as the magic fails. 
+      Audio: A choir of voices fading into silence, then a single distorted note — followed by a burst of static.
+  - scene_id: s03
+    title: Kenwood confronts his former bandmates — they’ve become enemies, and he must defeat them in a musical duel.
+    ltx_prompt: |
+      Setting: A shattered stage in the floating city, dusk. 
+      Visible action: Kenwood plays a heavy metal riff — his former bandmates, CoreKids, counter with jazz and rock. 
+      On-screen character: Kenwood, handsome, East Asian male, short hair, large expressive eyes, wearing a black leather jacket, posture aggressive as he plays. 
+      Camera: Dynamic tracking shot, then close-up on Kenwood’s face as he plays. 
+      Audio: A clash of genres — metal vs. jazz vs. rock — with a final, unified chord.
+  - scene_id: s04
+    title: Kenwood saves a dimension from collapse — but the cost is his memory. He forgets his former bandmates.
+    ltx_prompt: |
+      Setting: A collapsing city of floating instruments, night. 
+      Visible action: Kenwood plays a final, powerful melody — the city stabilizes — but his memory fades. 
+      On-screen character: Kenwood, handsome, East Asian male, short hair, large expressive eyes, wearing a dark robe, eyes blank as he plays. 
+      Camera: Wide shot of the city, then close-up on Kenwood’s blank eyes. 
+      Audio: A triumphant chord — then silence, followed by a fading echo.
+  - scene_id: s05
+    title: Kenwood finds a way to return home — but he must sacrifice his magic. He plays his final song to seal the rift.
+    ltx_prompt: |
+      Setting: A portal in the floating city, dawn. 
+      Visible action: Kenwood plays a lullaby — the portal opens — but his magic fades. 
+      On-screen character: Kenwood, handsome, East Asian male, short hair, large expressive eyes, wearing a dark robe, tear-streaked face as he plays. 
+      Camera: Wide shot of the portal, then close-up on Kenwood’s tear-streaked face. 
+      Audio: A lullaby that fades into silence — then a single, echoing note.

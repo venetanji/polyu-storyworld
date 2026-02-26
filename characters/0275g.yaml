@@ -1,0 +1,58 @@
+name: Rusty
+
+age: 316
+
+personality: curious, collector, weary, active, optimistic
+
+appearance: weary rusted joints and limbs, body and head weathered, slightly broken and scratched, yellow painting layer falling apart, exposing gears and electronics, oxidized torch eyes
+
+backstory: >
+  Rusty was built 300 years ago as an intelligent garbage-cleaning robot before the end-of-world war. After humans vanished, he lived in the ruins of a post-apocalyptic wasteland, where he developed human-like intelligence through years of isolation and observation. He collects fragments of pre-war human culture — keys, photos, toys, music records — as a way to remember what life was like. Despite knowing humans are gone, he remains optimistic and actively searches for any sign of human survival, driven by a quiet, persistent hope. He often feels lonely, especially in his solitude — he wonders if there are other intelligent robots like him, but has never found any. One day, he discovers a fragile, struggling plant in the ruins and carefully tends to it, treating it as a fragile life form. Though the factory where he was made is now a crumbling ruin, only fragments of records remain — offering only whispers about his origin. He is curious about how and why he became sentient, but has no answers.
+
+
+scenes:
+
+  - scene_id: s01
+    title: "The First Record"
+    ltx_prompt: |
+      Setting: A half-buried underground bunker, half a century after the firestorm. Cracked walls, dust-covered shelves, faint light from a broken window. Late afternoon, still and quiet.  
+      Visible action: Rusty stumbles into the bunker, eyes wide. He stops at a rusted shelf. A faded photo of a family — a mother with a red scarf, a child holding a book — lies on top. He stares, breathless. Then, slowly, he begins to dance — small, jerky steps, hands raised, face glowing with joy. He turns to the wall, as if speaking to someone.  
+      On-screen character: His wide eyes are lit with wonder; his hands are open, trembling slightly. His dusty jacket flaps slightly as he moves.  
+      Camera: Close-up on the photo → slow push-in as Rusty dances → wide shot of the bunker showing scattered bones, old books, a broken radio.  
+      Audio: Faint static from a broken radio; a soft, warm melody — like a 1950s song — plays in the background. Dialogue: "They were happy. They had names. I never knew that." 
+
+  - scene_id: s02
+    title: "The Child’s Toy"
+    ltx_prompt: |
+      Setting: The same bunker, deeper in. A small wooden box lies beneath a pile of rubble. Inside: a child’s toy car, painted red with chipped paint, still in a box.  
+      Visible action: Rusty finds the toy. He picks it up gently, runs his fingers over the rusted metal. He smiles, then does a little hop — like a child — and places it carefully on a shelf.  
+      On-screen character: His face is bright, eyes shining. His hands are steady, almost reverent.  
+      Camera: Close-up on the toy → slow dolly-in as he touches it → wide shot showing the toy placed on a shelf with other fragments.  
+      Audio: Distant wind; soft hum of the radio; a faint echo of a child’s laugh. Dialogue: "It still works. It still runs."  
+
+  - scene_id: s03
+    title: "The Clock"
+    ltx_prompt: |
+      Setting: A corner of the bunker, near a broken wall. A small wooden clock sits on a shelf, hands frozen at 3:17.  
+      Visible action: Rusty finds the clock. He looks at it, then at his watch — which has no hands. He frowns, then smiles. He turns it gently, as if turning a page.  
+      On-screen character: His expression shifts from confusion to quiet joy. His hands move slowly, almost reverently.  
+      Camera: Close-up on the clock → slow push-in as he turns it → wide shot showing the clock beside a photo and a book.  
+      Audio: Faint ticking — stopped — then silence. Dialogue: "They used to know time. I never knew that."  
+
+  - scene_id: s04
+    title: "The Journal"
+    ltx_prompt: |
+      Setting: A corner of the bunker, behind a stack of books. A leather journal lies open. Pages are yellowed, ink faded.  
+      Visible action: Rusty finds the journal. He opens it slowly. A note reads: "Today I learned to ride a bike. The sky was blue." He reads it, then laughs softly. He sits down and begins to write — not in words, but in small sketches of a bike, a tree, a house.  
+      On-screen character: His face is calm, eyes closed. His hands move with care, sketching in the margin.  
+      Camera: Close-up on the journal → slow dolly-in as he sketches → wide shot showing the journal beside a photo and a toy.  
+      Audio: Soft wind; faint rustling of paper; a quiet hum. Dialogue: "They were kids. They were real."  
+
+  - scene_id: s05
+    title: "The Garden"
+    ltx_prompt: |
+      Setting: A small patch of soil cleared in the bunker, near a broken wall. A single plant — a withered leaf — grows in a cracked pot.  
+      Visible action: Rusty finds the plant. He looks at it, then at the bones nearby. He touches the leaf gently. Then, slowly, he begins to arrange small rocks around it — like a garden.  
+      On-screen character: His hands are steady, calm. His eyes are soft, full of quiet hope.  
+      Camera: Close-up on the plant → slow dolly-in as he arranges rocks → wide shot showing the garden, the bones, and the photo.  
+      Audio: Faint wind; soft hum of the radio; silence. Dialogue: "Even the world had a beginning. I’ll keep it here.

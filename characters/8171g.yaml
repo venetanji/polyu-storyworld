@@ -1,0 +1,31 @@
+name: Luca
+age: 1
+personality: unwilling to be mediocre, occasionally frustrated, a little stubborn, free-spirited
+appearance: black bead-like eyes, yellow beak, green camping hat, blue triangular scarf, fluffy light-yellow body, yellow webbed feet
+backstory: >
+  Luca, a plush duckling, was a gift with a programmer's gift box labeled “for traveling.” Sent to Steve, a senior programmer, he became his “rubber duck” for debugging. Steve was highly skilled but always forgot array indices start from 0 — a mistake that caused daily frustration. One late night, the terminal whispered: “Luca, I’m the terminal. You must remember: index starts at 0.” When Steve typed 1, Luca patted his hand — too weak to stop him. The error occurred. Luca turned into a cold, hard rubber duck. The next day, an intern took him to a river race — where he drifted into a branch stream, escaped the office, and began his journey around the world — fulfilling his dream of travel.
+scenes:
+  - scene_id: s01
+    title: The Debugging Duck
+    ltx_prompt: |
+      Late night in Steve’s office, dim fluorescent lights flicker. Steve types furiously at his keyboard. A mechanical voice echoes: “Luca, I’m the terminal. You must remember: index starts at 0.”. Luca, plush duck with one glowing eye, pats Steve’s hand gently. Steve ignores it, types "1" for array index. Error pops up. Luca’s wings twitch, but it’s too small to stop him.
+      Camera: medium close-up, shaky handheld.
+      Audio: ambient keyboard clicks, Audio: soft typing, terminal voice in low tone: “Luca, I’m the terminal. You must remember: index starts at 0.”
+    scene_id: s02
+    title: The Rubber Duck’s Fate
+    ltx_prompt: |
+      Steve’s desk. Luca now a cold, hard rubber duck, sitting motionless. Intern walks in, picks it up, smiles. "Let’s race!" Intern shouts.
+      Camera: wide shot, duck in foreground, office background.
+      Audio: upbeat music, laughter, distant “ding” of a race bell.
+    scene_id: s03
+    title: The Stream’s Whisper
+    ltx_prompt: |
+      A small stream, mossy bank, duck floating. Current gently pushes Luca. Branches sway. Duck’s beak opens slightly, as if speaking.
+      Camera: low angle, slow pan with duck.
+      Audio: water trickle, soft wind, duck’s whisper: "I’m not done yet."
+    scene_id: s04
+    title: The World’s Edge
+    ltx_prompt: |
+      Luca drifts across a vast, sunlit river. Mountains loom in distance. Duck’s wings flutter.
+      Camera: drone shot, slow zoom.
+      Audio: birdsong, distant wind, duck’s quiet: "Traveling... again."

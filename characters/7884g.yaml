@@ -1,0 +1,45 @@
+name: Pipi
+age: 5
+species: Domestic cat (interstellar)
+fur: |
+  Silvery-white with faint galaxy-like patterns that shimmer under starlight. Hints of
+  violet and blue glow when he is excited.
+eyes:
+  - golden
+  - deep violet
+personality:
+  - Curious: always poking into things that sparkle
+  - Optimistic: even when lost among the stars, believes in finding a warm place again
+  - Playfully brave: pretends to be fearless, but jumps at the sound of comets
+quirks:
+  - Chases snowflakes like they're falling stars
+appearance: |
+  Silvery-white fur with galaxy-like patterns; faint violet and blue highlights under
+  starlight.
+backstory_illustration_prompt: |
+  Cozy cabin interior on a snowy night. A female astronomer stands by a telescope at the
+  window while Pipi, the silver-white cat, sits beside her looking at the stars. Warm
+  candlelight, snow falling outside, books and starlight reflections on the wooden floor.
+  Detailed, heartwarming fantasy illustration.
+scenes:
+  - scene_id: s01
+    title: "Snowfall on Earth"
+    prompt: |
+      A snowy mountain village at twilight. Pipi the silver-white cat plays joyfully in
+      fresh snow, paw prints trailing behind. Snowflakes fall softly, warm lights glow
+      from cabins, creating a peaceful atmosphere. Winter sunset colors and soft snow
+      clouds give a cute fantasy vibe; cinematic composition, high-quality concept art.
+  - scene_id: s02
+    title: "The Galaxy Leap"
+    prompt: |
+      Pipi the silver-white galaxy cat leaps into a glowing nebula sky. Fragments of ice
+      and stardust float around. Bright aurora colors and distant planets glitter, with
+      cosmic snow swirling. Dynamic lighting, magical and adventurous tone; detailed
+      space background for a whimsical fantasy illustration.
+  - scene_id: s03
+    title: "The Star Hearth"
+    prompt: |
+      Pipi the cosmic cat rests before a giant glowing star, warm golden light
+      surrounding him. Other glowing creatures rest nearby. Pipi holds a small glowing
+      crystal called "Snow-Seed." Dreamy soft light, painterly cosmic art, emotional
+      fantasy aesthetic.

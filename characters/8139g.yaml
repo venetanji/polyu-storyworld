@@ -1,0 +1,47 @@
+name: Huan
+age: 20
+personality: quiet, determined, dauntless, sometimes reckless
+appearance: Unkempt black hair, golden eyes, wears a black and somewhat tattered Eastern knight's attire, clad in a massive cloak, blue-green flames erupting from his left hand
+backstory: >
+  Ten years ago, during a catastrophic disaster, Huan was separated from his family. To find them, he embarked on a long and solitary journey. He traveled tirelessly across different cities and countries, searching for news of his loved ones while earning commissions through the combat skills he had honed over the years. During one mission, Huan faced overwhelming odds against a formidable foe. Cornered, he made a pact with a demon, trading a portion of his soul for immense power—the ability to command demonic flames. Now, his spirit is tormented, yet his unwavering resolve to find his family drives him forward.
+scenes:
+  - scene_id: s01
+    title: "The Fire That Guides the Way"
+    ltx_prompt: |
+      Setting: A dark cave at night, where a group of refugees is trapped. The air is thick with dust and the smell of wet stone.  
+      Visible action: Huan enters the cave with a group of refugees, the path blocked by rubble. He raises his hand—blue-green flames erupt, carving a path through the rubble. As the group follows, the flames form shapes—like a map, with faint lines tracing a mountain range.  
+      On-screen character description: Huan stands tall, hands slightly open, eyes focused, dark hair slightly damp from the cave’s dampness. His scar glows faintly under the flame light.  
+      Camera: Tracking shot following Huan as flames rise and form shapes. The camera moves slowly, staying in sync with his movements.  
+      Audio: Distant echoes, then a soft, melodic hum as flames form patterns. A child whispers, "Is that… a map?"  
+  - scene_id: s02
+    title: "The Price of Power"
+    ltx_prompt: |
+      Setting: A ruined temple at dawn, with cracked stone walls and broken columns. Sunlight filters through broken windows, casting long shadows.  
+      Visible action: Huan stares at a large mirror. His reflection shows a face with jagged edges, eyes glowing red. He touches the glass—flames burst from his hand. A distorted voice echoes: "You’re not saving them. You’re replacing them."  
+      On-screen character description: Huan is still, eyes wide, face tense. His hands hover near the mirror, scar pulsing faintly.  
+      Camera: Extreme close-up on the mirror, then slow pull-back to show Huan’s face. The camera lingers on the crack spreading across the glass.  
+      Audio: A low, distorted hum. The mirror voice says, "You’re not human anymore."  
+  - scene_id: s03
+    title: "The Boy’s Secret"
+    ltx_prompt: |
+      Setting: A quiet garden at night, with moonlight filtering through trees. The air is still, and the scent of wildflowers lingers.  
+      Visible action: The boy sits under a tree, telling Huan about his parents—how they vanished during a fire, and left a small silver locket behind. Huan reaches out, touches the locket, and feels a surge of warmth.  
+      On-screen character description: Huan stands slightly apart, hands in his jacket pockets. His eyes are soft, reflective, as if seeing something beyond the moment.  
+      Camera: Over-the-shoulder shot from the boy’s perspective as Huan speaks. The fire flickers in rhythm with his words.  
+      Audio: Soft wind. The boy says, "They said they’d return when the mountain fire died."  
+  - scene_id: s04
+    title: "The Final Choice"
+    ltx_prompt: |
+      Setting: A cliffside at dusk, with wind blowing through tall grass and the sky fading from orange to purple.  
+      Visible action: Huan stands at the edge of a cliff, the boy behind him. The flames rise from the ground—controlled, growing. He sees the boy’s face, then the flames. He looks at his hands, which now glow faintly. He takes a breath—then steps forward.  
+      On-screen character description: Huan stands tall, face calm but strained, eyes locked on the boy. His jacket flutters in the wind.  
+      Camera: Static shot from behind, showing Huan’s silhouette against the sky. The camera slowly zooms in on his face as he decides.  
+      Audio: Wind and distant thunder. A soft whisper: "What will you become?"  
+  - scene_id: s05
+    title: "The Truth Shared"
+    ltx_prompt: |
+      Setting: A quiet campfire at night, with soft light and the sound of crackling flames. The air is warm, and the sky is full of stars.  
+      Visible action: The boy asks, “Did you know your parents were gone?” Huan looks at the fire, then at the boy. After a long silence, he says, “I don’t remember. But I feel like I was always watching.” The boy nods.  
+      On-screen character description: Huan sits slightly hunched, eyes lowered, hands resting on his lap. His posture is relaxed, but guarded.  
+      Camera: Over-the-shoulder shot from the boy’s perspective as Huan speaks. The fire flickers in rhythm with his words.  
+      Audio: Crackle of fire. The boy says, "You’re not alone."

@@ -1,0 +1,18 @@
+name: Lamp Crow
+age: Unknown
+personality: Silent, stubborn, weary yet persistent, never complains, seeks no reward, cold detachment laced with obsessive calm
+appearance: Slender heron, faded gray-blue dark cyan feathers, rusted copper mechanical prosthetic beak, alloy prosthetic wings and legs, left eye amber cold-glow crystal, old cracked lantern that never lights hanging from its beak, overall gray-blue rust cold lantern-fire color scheme
+backstory: |
+  It is the bird that carries a lantern and delivers messages in a turbulent and swaying world, in the dark forests and seas where everyone fears for themselves, it alone crosses everything with a lantern that never lights. Its beak, wings, legs have all been replaced with prosthetics, yet it still fears neither wind nor storm, flying day and night. Its final resting place should only be beneath the blue sky.
+
+  Later its existence was tacitly accepted, it became a symbol that no side would attack, its colors became the symbol of the messenger, warfire, storms, either destroy it, or be defeated by it. It is the world's palm-lantern bird.
+scenes:
+  - title: "The Crossing of the Silent Ceasefire"
+    description: |
+      Two enemy trenches face each other across a cratered no-man's-land. A sudden, unspoken truce falls—not negotiated, just happening—as both sides hear the faint metallic clink of prosthetic legs touching wire. Lamp Crow appears from the smoke, flying low and straight between the lines. The lantern hangs dark from its copper beak. Soldiers on both sides rise halfway from cover, weapons slack, watching the gray-blue shape pass untouched through the killing field. Rifles stay lowered until the bird vanishes into the opposite haze. For those few seconds, no one fires. The war resumes only after it is gone.
+  - title: "The Flight Through the Maelstrom Over the Black Cliffs"
+    description: |
+      A monstrous storm rages above the ocean. Towering waves smash against cliffs taller than any building, lightning splitting the sky. In the heart of the tempest, Lamp Crow flies—not around, not above, but straight through. Wind tears at its alloy wings, rain hammers the rusted prosthetics, yet it holds course. The lantern on its beak swings wildly in the gale, still unlit, still unbroken. It climbs the final vertical rise of the highest sea cliff, battered silhouette briefly silhouetted against a flash of lightning, then disappears over the crest into the calm beyond—having carried its message across the impassable.
+  - title: "The Quiet Rest in the Hollow of the Deadwood"
+    description: |
+      Deep in a forest reduced to skeletal trees and ash, Lamp Crow lands on a broken branch at dusk. For once it does not immediately take off. Rain drips from charred leaves. Its mechanical legs fold beneath it with soft clicks, wings half-furled, head lowered slightly. The lantern hanging from its beak glows—finally, faintly—a single weak, cold amber light that does not push back the darkness so much as mark its presence. No creatures approach. No wind rattles the lamp. For a few rare minutes the bird simply rests, silent, unmolested, the small glow the only living thing in the ruined grove. Then, when the message inside its capsule calls again, it lifts into the night once more.

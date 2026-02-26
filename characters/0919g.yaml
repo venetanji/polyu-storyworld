@@ -1,0 +1,61 @@
+name: Lin Zhiyao
+
+gender: male
+entity: human
+age: 22
+
+appearance:
+  build: lean, endurance-trained physique
+  hair: dark brown, kept short or tied back for practicality
+  clothing: weathered utility jacket, reinforced boots, modular backpack
+  identifiers:
+    - a narrow scar under the left eye
+    - a worn single-ear communication earpiece
+    - a faded metal navigation badge attached to his pack
+
+personality:
+  strengths:
+    - excels at reading hostile environments
+    - cautious and observant
+    - capable of making survival-focused decisions
+  weaknesses:
+    - hesitant to fully trust shared data
+    - reluctant to assume leadership responsibility
+    - prone to overanalyzing risk under pressure
+
+background:
+  Growing up in unstable urban zones, Lin Zhiyao learned early that
+  environmental hazards and misinformation were often more lethal
+  than visible threats. By his early twenties, he had already
+  accumulated experience navigating collapsed infrastructure and
+  anomalous regions, becoming a valued pathfinder in cooperative
+  PvE expeditions despite his self-doubt.
+
+world_role:
+  Lin Zhiyao functions as an environmental scout and route evaluator
+  in a cooperative PvE world. Although he rarely positions himself
+  as a leader, his assessments frequently determine whether groups
+  proceed, delay, or retreat when facing environmental threats.
+
+scenes:
+  - title: Zone Classification Error
+    description: >
+      While surveying a partially collapsed district, Lin Zhiyao
+      identifies inconsistencies between official safety markers
+      and real-time environmental feedback. His insistence on
+      rerouting the group prevents exposure to a concealed hazard.
+
+  - title: Shared Map, Partial Truth
+    description: >
+      During a multi-team expedition, Lin shares only verified
+      navigation data, withholding uncertain segments. Another
+      group encounters unexpected environmental dangers, raising
+      questions about responsibility and information ethics in a
+      PvE-focused world.
+
+  - title: The Long Route Home
+    description: >
+      Faced with a choice between a fast but unstable passage and
+      a longer, safer route, Lin persuades the team to accept delay
+      over risk, reinforcing his identity as someone who prioritizes
+      survival over efficiency.

@@ -1,0 +1,27 @@
+name: Bao Bao 
+age: 3 years (Senior Designer)
+personality: >-
+  A hardworking Scorpio designer. She is the sole provider of the house,
+  balancing her corporate stress with a soft spot for her human pet, Jenny.
+appearance: A Golden Shaded British Shorthair with classic tabby markings. 
+  She has striking yellow-green eyes and a focused, professional gaze.
+backstory: >-
+  Bao Bao works overtime at a creative agency so Jenny can stay home, 
+  sleep, and eat snacks. She believes Jenny has zero survival skills 
+  and needs constant financial support.
+
+scenes:
+  - title: The Departure
+    description: >-
+      Morning: Bao Bao adjusts her whiskers and heads to the office while Jenny 
+      is still snoring. Sleep well, she thinks, I am off to earn your tuna fund.
+  - title: The Office Grind
+    description: >-
+      Afternoon: Dealing with endless design revisions, Bao Bao stares at 
+      Jenny's photo for motivation. One more hour of overtime equals one more 
+      bag of premium chips for her human.
+  - title: The Homecoming
+    description: >-
+      Night: Bao Bao returns home exhausted to a messy living room. She sighs 
+      and starts tidying up, realizing Jenny truly couldn't survive a day 
+      without her designer's salary.
