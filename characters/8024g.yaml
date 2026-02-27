@@ -1,0 +1,57 @@
+name: Kaito
+
+age: 28
+
+personality: calm, thoughtful, observant, eloquent, nostalgic, adventurous
+
+appearance: young Asian man, brown tweed flat cap, round thin-framed glasses, black turtleneck sweater, brown wool coat, gentle expression, steady gaze
+
+backstory: >
+  Kaito is a "Reality Archivist," a man who exists across multiple layers of digital and physical existence. Whether appearing as a high-fidelity 3D render in a modern interview or a 16-bit sprite in a retro RPG world, his mission remains the same: to document the beauty of fleeting moments. He is most often found in the "In-Between," a space where high-tech cyberpunk ruins meet the soft growth of nature. He believes that every version of the world—no matter how broken or pixelated—holds a fragment of truth. He wears his signature tweed cap and wool coat as a tether to a simpler, academic past, even when walking through neon-lit wreckage or enchanted forests. He speaks with a quiet authority, often feeling more like a witness to history than a participant in it.
+
+scenes:
+
+  - scene_id: s01
+    title: "The Archivist’s Portrait"
+    ltx_prompt: |
+      Setting: A minimalist, high-end 3D studio with soft, cinematic lighting. The background is a soft-focus gray gradient. 
+      Visible action: Kaito stands perfectly still, his head tilted slightly to the side. He adjusts his round glasses with a single, slow finger movement. He looks off-camera as if contemplating a deep philosophical question. A slight, knowing smile touches his lips.
+      On-screen character: Young Asian man in a brown tweed flat cap, black turtleneck, and wool coat. The texture of the wool is highly detailed. His skin shows realistic subsurface scattering under the warm key light.
+      Camera: Close-up portrait → slow rotation around the face to highlight the 3D depth → extreme close-up on the eyes reflecting the studio lights.
+      Audio: Low, ambient cello note; the sound of a soft camera shutter. Dialogue: "The way we see the world defines what the world becomes."
+
+  - scene_id: s02
+    title: "The Reality Interview"
+    ltx_prompt: |
+      Setting: A professional TV studio set. In the background, blurred screens show data streams and cityscapes. Soft blue and orange accent lights.
+      Visible action: Kaito sits in a modern leather chair, leaning forward slightly. He is mid-conversation, nodding thoughtfully. He gestures with his hands—calm, controlled movements—as he explains a complex concept. He looks toward an unseen interviewer with a friendly, engaging expression.
+      On-screen character: Kaito looks polished and professional. The lighting catches the rim of his glasses.
+      Camera: Mid-shot over the shoulder of the interviewer → slow zoom into Kaito’s face as he speaks → wide shot of the studio setup.
+      Audio: The muffled acoustic of a large room; soft background hum of electronics. Dialogue: "It's not about the resolution of the image, but the depth of the memory it holds."
+
+  - scene_id: s03
+    title: "The 16-Bit Journey"
+    ltx_prompt: |
+      Setting: A vibrant, side-scrolling 16-bit fantasy forest. Giant pixelated mushrooms, glowing flowers, and a retro RPG town visible in the distance. 
+      Visible action: Kaito walks from left to right in a classic RPG walk cycle. He stops, faces the viewer, and a dialogue box pops up at the bottom of the screen. He waves a pixelated hand. He looks exactly like his 3D self but translated into charming, dithered pixel art.
+      On-screen character: A small, expressive sprite wearing a brown cap and coat. Despite the low resolution, his calm personality is evident.
+      Camera: Fixed side-scrolling perspective → slight "screen shake" when he jumps → zoom in on the dialogue box.
+      Audio: Chirpy 8-bit chiptune music; "bip-bip-bip" sound of text appearing in a dialogue box. Dialogue: "Welcome to the Archive. Watch your step, the frame rate is a bit low here."
+
+  - scene_id: s04
+    title: "Golden Hour in the Ruins"
+    ltx_prompt: |
+      Setting: The ruins of a cyberpunk city. Broken concrete pillars, rusted metal beams, and futuristic neon signs flickering out. Golden hour sunlight pours through the gaps, creating volumetric god rays.
+      Visible action: Kaito stands amidst the wreckage. He reaches down to touch a small yellow flower growing from a crack in the concrete. Butterflies flutter around his head. He looks up at the setting sun, his coat catching the wind.
+      On-screen character: His expression is one of quiet peace. The contrast between his classic academic outfit and the decaying high-tech world is striking.
+      Camera: Wide shot showing the scale of the ruins → slow dolly-in toward Kaito → low angle looking up at him against the sun.
+      Audio: Wind whistling through metal; the distant chime of a digital bell; soft rustle of leaves. Dialogue: "Even here, in the silence of the circuits, something grows."
+
+  - scene_id: s05
+    title: "The Final Observation"
+    ltx_prompt: |
+      Setting: A transition space where the 3D world begins to glitch into pixel art. Lines of code fall like rain in the background.
+      Visible action: Kaito stands at the center of the transition. Half of his body is rendered in photorealistic 3D, the other half is 16-bit pixels. He removes his flat cap and holds it to his chest, bowing slightly to the viewer.
+      On-screen character: Calm and thoughtful, unfazed by the reality collapsing around him.
+      Camera: Steady center shot → the "glitch" effect intensifies → slow fade to black.
+      Audio: A blend of orchestral music and digital static; the sound of a heart beating. Dialogue: "Every frame is a story. Thank you for watching mine."
