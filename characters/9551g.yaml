@@ -1,38 +1,60 @@
-name: Johnny
+name: John
 age: 28
-personality: stage maniac, lazy in private, fiercely loyal
+
+personality: >
+  A natural showman who loves being in front of the camera. On stream he is
+  energetic, dramatic, and confident, treating every broadcast like a stage
+  performance. In private he is much more relaxed and slightly lazy, enjoying
+  quiet evenings after work. Loyal to his fans and close friends, he takes
+  pride in entertaining people every night.
+
 appearance: >
-  Silver-gray wolf-dog features crown a human frame built for spectacle, and a
-  polished mechanical left eye flickers beneath a black tactical hood. He moves
-  with stage-drill precision in matte armor, the only color coming from neon LED
-  accents running along his gear.
+  A tall anthropomorphic wolf-dog with striking black and white fur, resembling
+  a husky. His sharp ears stand upright and his bright eyes give him a confident,
+  charismatic presence. He dresses like a modern gentleman performer: a deep
+  burgundy tuxedo jacket over a black striped vest and white shirt, paired with
+  a tie and elegant accessories such as a pocket watch chain and monocle-style
+  glasses. White gloves and polished black shoes complete his stylish stage look,
+  making him appear both classy and theatrical.
+
 backstory: >
-  Born beneath the smog domes of Kowloon Arcology, Johnny was raised by the pit
-  crews of an outlaw racing syndicate. The mechanics taught him to tune engines
-  and patch cybernetics, replacing his shattered left eye with a spare drone lens
-  after a crash he barely survived. Onstage he channels the roar of those tunnels
-  into feral performances that keep corporate sponsors wary and underground fans
-  obsessed. Offstage he naps anywhere he can drop his gear, saving his energy for
-  the few people he swore to protect.
+  John is a livestream entertainer who built his reputation through charisma,
+  dancing, and a unique gentlemanly stage persona. His streams combine humor,
+  performance, and interaction with viewers. Every day he prepares carefully,
+  practicing dance routines and maintaining his stamina before going live.
+  When the cameras are on he becomes a dramatic performer, but once the stream
+  ends he returns to a much quieter routine: walking home, cooking simple meals,
+  and relaxing before sleep.
+
 scenes:
+
   - scene_id: s01
-    title: Night Ride
+    title: Preparing for the Stream
     ltx_prompt: |
-      Neon lights streak through the tunnel as his motorcycle roars.
-      He leans forward, silver fur whipping in the wind, mechanical eye glowing icy blue.
-      Close-up: The speedometer needle trembles at maximum velocity.
-      Soundtrack: Electronic rock crescendos, engine growl drowning the wind.
+      A stylish wolf-headed gentleman walks toward the camera in a vlog-style shot.
+      He adjusts his burgundy suit jacket and greets the audience confidently.
+      Cut to a dance practice scene: energetic dance moves in a rehearsal room,
+      elegant but playful movements while wearing the suit.
+      Transition to jump rope training outdoors at sunset, his suit jacket removed
+      while he trains with focus.
+      Soundtrack: upbeat vlog music with energetic rhythm.
+
   - scene_id: s02
-    title: Afternoon Nap
+    title: Live Stream Performance
     ltx_prompt: |
-      Dappled sunlight filters through the grass where he sprawls lazily.
-      Close-up: Paw absently batting at dandelion fluff carried by the breeze.
-      Low-angle shot: Squinting eyes, ears twitching, tail thumping rhythmically.
-      Soundtrack: Birds chirp brightly, distant children's laughter echoes.
+      Inside a modern livestream studio filled with LED lights and streaming equipment.
+      The wolf-headed host performs and dances while interacting with viewers.
+      Close-up: microphone, camera lens, and scrolling chat on the monitor.
+      He finishes the stream, removes his headset, and stretches after the show.
+      Dialogue: "Alright everyone, that's it for tonight. See you tomorrow!"
+      Soundtrack: lively electronic music fading into calm lo-fi.
+
   - scene_id: s03
-    title: Center Stage
+    title: After Work Routine
     ltx_prompt: |
-      Spotlight captures his howling vocals igniting the crowd.
-      Spinning shot: Mechanical eye scans the audience, claws gripping the mic stand, silver fur glinting.
-      Close-up: Sweat drips as he leaps, shredding his shirt mid-air.
-      Soundtrack: Guitar solo erupts, fan screams deafening.
+      Night city street illuminated by soft streetlights.
+      The elegant wolf gentleman walks home calmly, suit jacket slightly relaxed.
+      Cut to a cozy kitchen where he cooks a simple late-night meal.
+      Final shot: bedroom lit by the glow of a phone as he lies on the bed scrolling.
+      He yawns, turns off the light, and the room fades to darkness.
+      Soundtrack: quiet chill night music.
