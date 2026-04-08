@@ -1,0 +1,30 @@
+# 3882g.yaml - Character Profile of Yue Yue
+name: Yue Yue
+species: Human-evolved deep-sea squid
+gender: Female (human form)
+personality:
+  - Polite and elegant, embodying East Asian aesthetic of subtlety and atmospheric minimalism
+  - Introverted (I-type), with restrained outward energy but profound inner ideals and ambitions
+  - Decisive and resolute, showing unwavering determination in critical moments
+  - Aesthetic taste leans toward understated elegance, favoring ink-wash style and celadon-like tranquility
+appearance:
+  human_form:
+    - Slender figure with cool white skin featuring a pearlescent luster
+    - Inky black hair with faint iridescent blue hues under light
+    - Dark ink-colored eyes; pupils contract/expand like a squid when emotional
+    - Wears muted-toned (cyan/gray/white) loose linen/silk clothing
+    - Carries a deep-sea shell hairpin as a connection to her ocean roots
+core_traits:
+  - Shape-shifting: Freely switches between human and squid forms (retains squid-like traits in human form)
+  - Mimicry: Inherited squid ability to alter skin color/texture for environmental blending
+  - Deep-sea memory: Innate understanding of marine history, ecology and evolution
+key_scenes:
+  - title: "Ink-Wash Landing"
+    description: >
+      Yue Yue's first land visit as a human: she sits on a rain-soaked coastal pier, shifting her skin to match the gray stone/mist—embodying her introverted nature and East Asian aesthetic of harmony with surroundings.
+  - title: "Ink Resolve"
+    description: >
+      As squid representative, Yue Yue negotiates with aggressive octopus leaders over a hydrothermal vent. Calm yet firm, she uses ink cloud and quick action to protect her clan when negotiations fail—revealing her hidden decisiveness.
+  - title: "Abyssal Oath"
+    description: >
+      Discovering an ancient data slab of Earth's lost biodiversity in a deep-sea ruin, Yue Yue vows to build a symbiotic order between squids/octopuses to protect the damaged planet—fulfilling her inner ambitions.
